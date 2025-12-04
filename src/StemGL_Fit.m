@@ -59,7 +59,7 @@ function[]= StemGL_Fit (varargin)
     % read parameter file
     %%%%%%%%%%%%%%%%%%%%%
     %sdir = ['.' filesep 'target' filesep 'test.m'];
-    sdir = 'target';
+    sdir = '..\data';
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
     [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );

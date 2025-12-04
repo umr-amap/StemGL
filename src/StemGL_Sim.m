@@ -60,7 +60,7 @@ function[]= StemGL_Sim (varargin)
     TreeName = 'Empty';
 
     %read param
-    sdir = 'target';
+    sdir = '..\data';
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
     [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
