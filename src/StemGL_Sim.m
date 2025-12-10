@@ -60,7 +60,7 @@ function[]= StemGL_Sim (varargin)
     TreeName = 'Empty';
 
     %read param
-    sdir = '..\data';
+    sdir = 'target';
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
     [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
@@ -76,7 +76,11 @@ function[]= StemGL_Sim (varargin)
     % Alloc parameters
     Sympod = 0;
     [T,Tm,Nrep_S,w,kw,b,bf,rnd1,Msk,nao,npo,nio,nco,nfo,nmo,nt,tw] = Load_ParamStructure (param, p_Age);
-    
+    if Tm < 0
+        Tm = -Tm;
+        Sympod = Tm;
+    end
+
     [tfo,txo,txo_n,txo_ctl,txo_x,pa,pp,pe,pc,pf,pm,pt,pq,kpc,kpa,kpe,mna,ca,mnp,cp,mne,ci,...
         Ba1,Ba2,Bp1,Bp2,Be1,Be2,Bc1,Bc2,Bf1,Bf2,Bm1,Bm2,Bt1,Bt2,...
         Dla,Dlp,Dle,Dlc,Dlf,Dlm,Dlt,e,b1,a1,f1] = Load_ParamOrgans (param);
@@ -89,9 +93,9 @@ function[]= StemGL_Sim (varargin)
 
     TileNb = 0;
     if (nblines > 23)
-       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);        
+       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);
     end
-    
+
     % Restore axes of development and organ cohorts numbering or create them
     Ti = 0;
     Get_Dev = p_Dev;
@@ -131,7 +135,7 @@ function[]= StemGL_Sim (varargin)
         %np = npo*ones(T,Nrep_S);
         %ni = nio*ones(T,Nrep_S);
         %ni = zeros(T,Nrep_S);
-        %nf = zeros(T,Nrep_S);       
+        %nf = zeros(T,Nrep_S);
         %nf = nfo*ones(T,Nrep_S);
         %nm = nmo*ones(T,Nrep_S);
 
@@ -160,8 +164,8 @@ function[]= StemGL_Sim (varargin)
 
         t3 = cputime;
         % Sympodial case
-        if Sympod > 1 && Sympod < T           
-           nf(1:Sympod-1,1:Nrep_S) = zeros(1:Sympod-1,1:Nrep_S);
+        if Sympod > 1 && Sympod < T
+           nf(1:Sympod-1,1:Nrep_S) = 0;
         end
 
         % mask for organs along stem

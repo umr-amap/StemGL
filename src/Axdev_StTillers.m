@@ -2,7 +2,7 @@
 % StemGL_Fit Single stem Greenlab Fitting tool and
 % StemGL_Sim Single stem GreenLab Simulation tool
 %
-%   MatLab_Octave code. 
+%   MatLab_Octave code.
 %
 % This code is part of GREENLAB project StemGL implementation
 %
@@ -12,7 +12,7 @@
 % Created: 2018
 % Version 18_10_05
 %
-% Copyright (C) 2018 CIRAD-AMAP 
+% Copyright (C) 2018 CIRAD-AMAP
 %
 % This program is free software: you can redistribute it and/or modify it
 % under the terms of the Create Commons Licence  type 5, BY-NC-SA
@@ -34,7 +34,7 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
 %
 % function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(
 %       Krnd, Nrnd, AxdPot, T, Nrep_S, nao, npo, nfo, nmo, bf, TileNb,TilePb1,TileDelay1,TileDelay2,TileLgMax,TileDev1)
-% 
+%
 % Computes Nrep_S development axis with theeir potential fruits
 %   I   Krnd:       random generator congruence coefficient
 %   I   Nrnd:       random generator current seed
@@ -49,10 +49,10 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
 %   I   TileNb:     Maximum number of tillers
 %   I   TilePb1:    Tiller occurrence probability (simple)
 %   I   TilePb2:    Tiller occurrence probability (secondary)
-%   I   TileDelay1: Tiller apparence delay (fixed) 
+%   I   TileDelay1: Tiller apparence delay (fixed)
 %   I   TileDelay2: Tiller apparence delay (variable)
-%   I   TileLgMax:  Tiller max cycle number 
-%   I   TileDev1:   Tiller development probability (bernouilly) 
+%   I   TileLgMax:  Tiller max cycle number
+%   I   TileDev1:   Tiller development probability (bernouilly)
 %   I   TileDev2:   Tiller development probability 2
 %   I   TileRes:    Tiller supplementary parameter
 %   O   Axdc(T,Nrep_S): Development axis
@@ -65,26 +65,34 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
 %
 
     Xas  = zeros(T,1);    % distribution of phytomers (simulations)
-    Axdc = zeros(T,Nrep_S); % development axis 
+    Axdc = zeros(T,Nrep_S); % development axis
     ni = zeros(T,Nrep_S);   % internode development axis (should be equal to Axdc)
     na = zeros(T,Nrep_S);   % leaf development axis (number of leaves per cycle)
     np = zeros(T,Nrep_S);   % petiol development axis (number of petiol per cycle)
     nf = zeros(T,Nrep_S);   % fruit female development axis (number of female fruits per cycle)
     nm = zeros(T,Nrep_S);   % fruit male development axis (number of male fruits per cycle)
-    
+
+    if TileLgMax > T || TileLgMax < 1
+      Tilelmax = T;
+    else
+      Tilelmax = TileLgMax;
+    end
+
+    Nrnd1 = Krnd*Nrnd - floor(Krnd*Nrnd);
     for s = 1 : Nrep_S %% N random simulations of axis
         % simule law of development Bernouilly process Axdc( 1 0 0 1 1 0,...)
         for tile = 0 : TileNb %(tile 0 is the main stem)
             len = 0; %axis length
+            Nrnd1 = Krnd*Nrnd1 - floor(Krnd*Nrnd1);
             Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
             % Check if tiller or not
-            fprintf(1, '\n Tile %d on %d \n', tile, TileNb);
+            %fprintf(1, '\n Tile %d on %d \n', tile, TileNb);
             if tile > 0
                 if Nrnd <= TilePb1 % tiller exists, use specific delay
                     Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
-                    delay = TileDelay1 + floor(TileDelay2*(TileLgMax-TileDelay1));
-                    fprintf(1, '\n Tile %d on %d . Delay %d\n', tile, TileNb, delay);
-                    for i = 1 : TileLgMax
+                    delay = TileDelay1 + floor(Nrnd*TileDelay2*(Tilelmax-TileDelay1));
+                    %fprintf(1, '\n Tile %d on %d . Delay %d\n', tile, TileNb, delay);
+                    for i = 1 : Tilelmax
                         % generating random number series
                         Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
                         if i > delay && Nrnd <= TileDev1 % phytomer exists
@@ -97,8 +105,8 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
                             %% fruit stochastic
                             n = 0;
                             for z = 1 : nfo
-                                Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
-                                if Nrnd <= bf   % fruit exists
+                                Nrnd1 = Krnd*Nrnd1 - floor(Krnd*Nrnd1);
+                                if Nrnd1 <= bf   % fruit exists
                                     n = n + 1;
                                 end
                             end
@@ -107,7 +115,7 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
                         end
                     end
                     if len > 0
-                        Xas(len,1) = Xas(len,1) + 1;  % Updates the distribution (there is a new axis of len phytomers) 
+                        Xas(len,1) = Xas(len,1) + 1;  % Updates the distribution (there is a new axis of len phytomers)
                     end
                 end
             else % main stem
@@ -132,7 +140,7 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, Nrnd, AxdPot, T, Nrep_
                     end
                 end
                 if len > 0
-                    Xas(len,1) = Xas(len,1) + 1;  % Updates the distribution (there is a new axis of len phytomers) 
+                    Xas(len,1) = Xas(len,1) + 1;  % Updates the distribution (there is a new axis of len phytomers)
                 end
             end
         end
