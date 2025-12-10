@@ -63,7 +63,7 @@ function[]= StemGL_Sim (varargin)
     sdir = '..\data';
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
-    [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
+    [~, param, plant_name] = IO_ReadParam ( filename, 24 );
 
     [dirparam, nameplant, extplant] = fileparts (strcat(plant_name, '.par'));
     dirwkparam = strcat(dirparam, filesep,'Work');
@@ -74,9 +74,8 @@ function[]= StemGL_Sim (varargin)
     %fprintf (1," Name %s, wk dir %s, full wkname %s\n", nameplant, dirwkparam, plant_wkname);
 
     % Alloc parameters
-    Sympod = 0;
     [T,Tm,Nrep_S,w,kw,b,bf,rnd1,Msk,nao,npo,nio,nco,nfo,nmo,nt,tw] = Load_ParamStructure (param, p_Age);
-    
+
     [tfo,txo,txo_n,txo_ctl,txo_x,pa,pp,pe,pc,pf,pm,pt,pq,kpc,kpa,kpe,mna,ca,mnp,cp,mne,ci,...
         Ba1,Ba2,Bp1,Bp2,Be1,Be2,Bc1,Bc2,Bf1,Bf2,Bm1,Bm2,Bt1,Bt2,...
         Dla,Dlp,Dle,Dlc,Dlf,Dlm,Dlt,e,b1,a1,f1] = Load_ParamOrgans (param);
@@ -87,15 +86,10 @@ function[]= StemGL_Sim (varargin)
 
     [comp,~] = Load_ParamFitting (param);
 
-    TileNb = 0;
-    if (nblines > 23)
-       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);        
-    end
-    
+
     % Restore axes of development and organ cohorts numbering or create them
     Ti = 0;
     Get_Dev = p_Dev;
-    Get_Dev = 0;
     if Get_Dev > 0
         [Ti, Tm, Nrep_S, Axdc, na, np, ni, nf, nm, Xas] = IO_RestoreDevelopment (strcat(plant_wkname, '.dev'));
         %[Ti, Tm, Nrep_S, Axdc, na, np, ni, nf, nm, Xas] = IO_RestoreDevelopment ('Test.dev');
@@ -127,43 +121,25 @@ function[]= StemGL_Sim (varargin)
             Nrep_S = 1;
         end
         % Organ development axis
-        %na = nao*ones(T,Nrep_S);
-        %np = npo*ones(T,Nrep_S);
-        %ni = nio*ones(T,Nrep_S);
-        %ni = zeros(T,Nrep_S);
-        %nf = zeros(T,Nrep_S);       
+        na = nao*ones(T,Nrep_S);
+        np = npo*ones(T,Nrep_S);
+        ni = nio*ones(T,Nrep_S);
         %nf = nfo*ones(T,Nrep_S);
-        %nm = nmo*ones(T,Nrep_S);
+        nm = nmo*ones(T,Nrep_S);
 
         Krnd = 997;
         rnd1 = 0.77653479197 * rnd1;
-        if USE_CPP && TileNb == 0
+        if USE_CPP
             % The theoritical development axis
-                    %na = nao*ones(T,Nrep_S);
-            na = nao*ones(T,Nrep_S);
-            np = npo*ones(T,Nrep_S);
-            ni = nio*ones(T,Nrep_S);
-            nm = nmo*ones(T,Nrep_S);
-
             mkoctfile --mex CPPAxdev_St2.cpp;
             % The stotastic development axis and fruit positioning
             [Axdc,nf,Xas]= CPPAxdev_St2(Krnd, rnd1, AxdPot, T, Nrep_S, nfo, bf);
         else
             % The stotastic development axis and fruit positioning
-            if TileNb > 0
-                [Axdc,ni,na,np,nf,nm,Xas]= Axdev_StTillers(Krnd, rnd1, AxdPot, T, Nrep_S, nao, npo, nfo, nmo, bf, TileNb,TilePb1,TileDelay1,TileDelay2,TileLgMax,TileDev1);
-                Axdc = ones(T,Nrep_S); % ni contains the info instead
-             else
-                [Axdc,ni,na,np,nf,nm,Xas] = Axdev_St(Krnd, rnd1, AxdPot, T, Nrep_S, nao, npo, nfo, nmo, bf);
-            end
+            [Axdc,nf,Xas]= Axdev_St(Krnd, rnd1, AxdPot, T, Nrep_S, nfo, bf);
         end
 
         t3 = cputime;
-        % Sympodial case
-        if Sympod > 1 && Sympod < T           
-           nf(1:Sympod-1,1:Nrep_S) = zeros(1:Sympod-1,1:Nrep_S);
-        end
-
         % mask for organs along stem
         %
         if Msk == 1
@@ -176,8 +152,6 @@ function[]= StemGL_Sim (varargin)
         if Save_Dev > 0
             IO_DumpDevelopment (strcat(plant_wkname, '.dev'), T, Tm, Nrep_S, Axdc, na, np, ni, nf, nm, Xas);
             %[T_g, Tm_g, Nrep_S_g, Axdc_g, na_g, np_g, ni_g, nf_g, nm_g, Xas_g] = IO_RestoreDevelopment (strcat(plant_name, 'dev.m'));
-            [filename] = IO_FileGUI (strcat (plant_wkname, 'update.par'),'Save uoodated parameter file as:', sdir, '.par', 1);
-            IO_WriteParam (filename, text, param, 26);
         end
     end
     t4 = cputime;

@@ -46,7 +46,7 @@ function [Axdc, na, np, ni, nf, nm] = IO_ReadApplyMsk (filename, T, Axdc, na, np
     %   Copyright Cirad-AMAP
     %
 
-
+    fprintf(1,'\nMask: %s\n', filename);
     fid = fopen(filename,'rt');
 
     if fid > 0
@@ -87,7 +87,7 @@ function [Axdc, na, np, ni, nf, nm] = IO_ReadApplyMsk (filename, T, Axdc, na, np
 
         fclose(fid);
 
-        fprintf(1,'Mask file %s loaded.\n', filename);
+
         if (M_T > T)
             M_T = T;
         end

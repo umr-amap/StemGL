@@ -54,7 +54,6 @@ function IO_WriteParam (filename,text,param, nb_lines)
             i=i+1;
         end
         fclose(fid); % fin automatique de la lecture
-        fprintf(1,'Parameter save in: %s performed\n', filename);
     else
         mess_err = sprintf('Error opening (write) param file %s. Return code : %d', filename, fid); 
         error_message (11, 1, 'IO_WriteParam', mess_err);        

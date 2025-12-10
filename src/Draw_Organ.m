@@ -69,21 +69,11 @@ if qlis > 0
             else
                 Col_Leaf = Col_OLeaf;
             end
-            %x_orig = qdics + qlas;
-            %rectangle('position',[pos_x+qdics/2-mod(i,2)*x_orig,pos_y+qlis-qdas/2,qlas,qdas],'Curvature',[0.9,0.9],'FaceColor',Col_Leaf);
-            %if na > 1
-            %     rectangle('position',[pos_x+qdics/2-mod(i+1,2)*x_orig,pos_y+qlis-qdas/2,qlas,qdas],'Curvature',[0.9,0.9],'FaceColor',Col_Leaf);
-            %end
-            if na > 0
-                for j =1:na
-                    x_orig = qdics/2 + (0.7 + j*0.3)*qlas;
-                    if mod(i,2) > 0
-                        x_orig = -x_orig + qlas;
-                    end
-                    %% MJ correction 2018 05 11 One line replaced
-                    rectangle('position',[pos_x-x_orig,pos_y+qlis-qdas/2,qlas,qdas],'Curvature',[0.9,0.9],'FaceColor',Col_Leaf);
-                end
-            end            
+            x_orig = qdics + qlas;
+            rectangle('position',[pos_x+qdics/2-mod(i,2)*x_orig,pos_y+qlis-qdas/2,qlas,qdas],'Curvature',[0.9,0.9],'FaceColor',Col_Leaf);
+            if na > 1
+                 rectangle('position',[pos_x+qdics/2-mod(i+1,2)*x_orig,pos_y+qlis-qdas/2,qlas,qdas],'Curvature',[0.9,0.9],'FaceColor',Col_Leaf);
+            end
         end
         % fruits
         if Fruit_Display == 1

@@ -30,20 +30,21 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [text, param, treename, nb_items] = IO_ReadParam ( filename, nb_lines )
+function [text, param, treename] = IO_ReadParam ( filename, nb_lines )
 %
 %    function [text, param, treename] = IO_ReadPar( filename )
 %
 %   I   filename:   full path to parameter filename
-%   I   nb_lines:   number of parameter lines (24, 26, 28, or 30 according to versions)
+%   I   nb_lines:   number of parameter lines (24 default)
 %   O   text:       parameter file labels
 %   O   param:      paramater list (10 values/line, nb_lines)
-%   O   treename:   plante name with path (extension supressed)
-%   O   nb_items:   number of lines loaded (should at least be 24)
+%   O   plname:     plante name with path (extension supressed)
 %
 %   Last version 2018/07/12. Main author PdR/MJ
 %   Copyright Cirad-AMAP
 %
+
+    fprintf(1,'\nParam: %s \n', filename);
 
     treename = '';
     text{100} = '';
@@ -55,24 +56,19 @@ function [text, param, treename, nb_items] = IO_ReadParam ( filename, nb_lines )
         treename = strrep(filename, '.par','');
 
         param = zeros(nb_lines,10);
-        %temp  = zeros(10,1);
+        temp  = zeros(10,1);
         i=1;
-        labels = fgetl(fid);
-        while ( (~feof(fid)) && (~isempty(labels)) )
+        while (i <= nb_lines)
+            labels = fgetl(fid);
             text{i} = labels;
             %fprintf(1,'\n line %d    labels %s \n', i, labels);
             strvals = fgetl(fid);
+            vals = sscanf(strvals,'%f',10);
             %fprintf(1,' %f', vals);
-            if (~feof(fid) && (~isempty(strvals)) )
-                vals = sscanf(strvals,'%f',10);
-                param(i,1:10)= vals(1:10);
-                labels = fgetl(fid);
-                i=i+1;
-            end
+            param(i,1:10)= vals(1:10);
+            i=i+1;
         end
         fclose(fid);
-        nb_items = i-1;
-        fprintf (1,'Parameter file (%d lines) %s loaded.\n', nb_items, filename);
     else
         mess_err = sprintf('Error opening (read) param file %s. Return code : %d', filename, fid);
         error_message (11, 1, 'IO_ReadParam', mess_err);

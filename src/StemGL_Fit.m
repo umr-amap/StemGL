@@ -62,7 +62,7 @@ function[]= StemGL_Fit (varargin)
     sdir = '..\data';
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
-    [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
+    [text, param, plant_name] = IO_ReadParam ( filename, 24 );
 
     [dirparam, nameplant, extplant] = fileparts (strcat(plant_name, '.par'));
     dirwkparam = strcat(dirparam, filesep,'Work');
@@ -92,12 +92,6 @@ function[]= StemGL_Fit (varargin)
 
     [comp,chpm] = Load_ParamFitting (param);
 
-    TileNb = 0;
-    if (nblines > 23)
-       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);        
-    end
-        
-    
     if (Nrep_S ~= 1)
         Nrep_S = 1;%no repetition for computation
     end
@@ -156,7 +150,7 @@ function[]= StemGL_Fit (varargin)
         end
 
         % Development finished Dump it to disk (and potentially retrieve it)
-        Save_Dev = 0;
+        Save_Dev = 1;
         if Save_Dev > 0
             IO_DumpDevelopment (strcat(plant_wkname, 'fitted.dev'), T, Tm, Nrep_S, AxdPot, na, np, ni, nf, nm, zeros(T,1));
             %[T_g, Tm_g, Nrep_S_g, AxdPot_g, na_g, np_g, ni_g, nf_g, nm_g, Xas_g] = IO_RestoreDevelopment (strcat(plant_name, 'pdev.m'));

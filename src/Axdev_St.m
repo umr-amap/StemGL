@@ -30,9 +30,9 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_St(Krnd, Nrnd, AxdPot, T, Nrep_S, nao, npo, nfo, nmo, bf)
+function [Axdc,nf,Xas]= Axdev_St(Krnd, Nrnd, AxdPot, T, Nrep_S, nfo, bf)
 %
-% function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_St(Krnd,Nrnd,AxdPot,T,Nrep_S,nfo,nmo,bf)
+% function [Axdc,nf,Xas]= Axdev_St(Krnd,Nrnd,AxdPot,T,Nrep_S,nfo,bf)
 % 
 % Computes Nrep_S development axis with theeir potential fruits
 %   I   Krnd:       random generator congruence coefficient
@@ -40,28 +40,17 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_St(Krnd, Nrnd, AxdPot, T, Nrep_S, nao,
 %   I   AxdPot(T,1):Potential development axis
 %   I   T:          Plant age
 %   I   Nrep_S:     Number of stochastic repetitions
-%   I   nao:        Maximum number of leafs per phytomer
-%   I   npo:        Maximum number of petiol per phytomer
 %   I   nfo:        Maximum number of female fruits per phytomer
-%   I   nmo:        Maximum number of male fruits per phytomer
 %   I   bf:         fruit occurence probability
 %   O   Axdc(T,Nrep_S): Development axis
-%   O   ni(T,Nrep_S):   Number of internodes
-%   O   na(T,Nrep_S):   Number of leaves
-%   O   np(T,Nrep_S):   Number of petiols
-%   O   nf(T,Nrep_S):   Number of female fruits
-%   O   nm(T,Nrep_S):   Number of male fruits
+%   O   nf(T,Nrep_S):   Number of fruits
 %   O   Xas(T):         Number of axis distribution
 %
 
     Xas  = zeros(T,1);    % distribution of phytomers (simulations)
     Axdc = zeros(T,Nrep_S); % development axis 
-    ni = zeros(T,Nrep_S);   % internode development axis (should be equal to Axdc)
-    na = zeros(T,Nrep_S);   % leaf development axis (number of leaves per cycle)
-    np = zeros(T,Nrep_S);   % petiol development axis (number of petiol per cycle)
-    nf = zeros(T,Nrep_S);   % fruit female development axis (number of female fruits per cycle)
-    nm = zeros(T,Nrep_S);   % fruit male development axis (number of male fruits per cycle)
-    
+    nf = nfo*ones(T,Nrep_S);   % fruit development axis (number of fruits per cycle)
+
     for s = 1 : Nrep_S %% N random simulations of axis
         % simule law of development Bernouilly process Axdc( 1 0 0 1 1 0,...)
         len = 0; %axis length
@@ -70,25 +59,21 @@ function [Axdc,ni,na,np,nf,nm,Xas]= Axdev_St(Krnd, Nrnd, AxdPot, T, Nrep_S, nao,
             Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
             if Nrnd <= AxdPot(i,1) % phytomer exists
                 len = len + 1;
-                Axdc(i,s) = Axdc(i,s) + 1;
-                ni(i,s) = ni(i,s) + 1;
+                Axdc(i,s) = 1;
                 %% fruit stochastic
-                %if bf < 1
-                n = 0;
-                for z = 1 : nfo
+                if bf < 1
+                    n = 0;
+                    for z = 1 : nfo
                         %Zrnd=Zrnd+1;
                         %Nrnd(1,Zrnd)= Krnd*Nrnd(1,Zrnd-1)-floor(Krnd*Nrnd(1,Zrnd-1));
-                    Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
+                        Nrnd = Krnd*Nrnd - floor(Krnd*Nrnd);
                         %rnd=Nrnd(1,Zrnd);
-                    if Nrnd <= bf   % fruit exists
-                        n = n + 1;
+                        if Nrnd <= bf   % fruit exists
+                            n = n + 1;
+                        end
                     end
+                    nf(i,s) = n;
                 end
-                na(i,s) = na(i,s) + nao;
-                np(i,s) = np(i,s) + npo;
-                nf(i,s) = nf(i,s) + n;
-                nm(i,s) = nm(i,s) + nmo;
-                %end
             end
         end
         if len > 0

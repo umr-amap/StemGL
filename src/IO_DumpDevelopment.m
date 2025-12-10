@@ -49,7 +49,7 @@ function  IO_DumpDevelopment (filename, T, Tm, Nrep_S, Axdc, na, np, ni, nf, nm,
     %   Copyright Cirad-AMAP
     %
 
-
+    fprintf(1,'\nDevelopment Dump: %s\n', filename);
     fid = fopen(filename,'wt');
 
     if fid > 0
@@ -69,7 +69,6 @@ function  IO_DumpDevelopment (filename, T, Tm, Nrep_S, Axdc, na, np, ni, nf, nm,
         %end
 
         fclose(fid);
-        fprintf(1,'Development Dump in: %s performed\n', filename);
     end
 
 end
