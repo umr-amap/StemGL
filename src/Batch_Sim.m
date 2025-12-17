@@ -35,44 +35,37 @@ function[]= Batch_Sim ( )
 
     startcputime = cputime; %cputime start
 
-    %Generate the file with all output messages
-
- 
-    AGRO_PLANT = 0;
-    PMA18 = 0;
-    VIRTUAL_PLANT = 0;
-
-    
-
-    %get date and time
+    %get date and time and put it in string
     strdate = datestr(now,'yyyy-mm-dd_HHMM');
-    %Open Diary
-    str = sprintf('Batch_DumpSim_%s.txt', strdate);
+    
+    %Generate the dump from all console output messages
+    str = sprintf('BatchSim_Dump_%s.txt', strdate);
     diary(str);
     
-    %Define Batchlist file 
-    batchfiles = sprintf('Batch_Files_%s.txt', strdate);
+    %Define Batchlist file to process  
+    batchfiles = sprintf('BatchSim_Files_%s.txt', strdate);
     % Define directory entry point
     sdir = strcat('..', filesep, 'data', filesep);
-    %Launch ssek for each parameter file
-    IO_DirFiles(sdir, '*.par', 99, batchfiles);
+    %Launch ssek for each parameter file recursively
+    nbf = IO_DirFiles(sdir, '*.par', 99, batchfiles);
 
 
-    % Open batchfile and launch the run for each file 
+    % If files to process (nbf > 0) Open batchfile and launch the run for each file 
     fbatchlist = fopen(batchfiles,'r');
-    if fbatchlist
+    if nbf > 0 && fbatchlist
+        % loop on reading files to process until end of file
         filename = fgetl(fbatchlist);
         while ( (~feof(fbatchlist)) && (~isempty(filename)) )
+            % lauch StemGL_Sim with input file as option
             StemGL_Sim ('-i', filename);
             filename = fgetl(fbatchlist);
         end
         fclose (fbatchlist);   
     end
     
-    %end of script
-
+    %end of scrip
     fprintf (1,'\nSCRIPT TOTAL CPU TIME    %f\n', cputime-startcputime);
     
-    % Close diary
+    % Close diary (dumpfile)
     diary off
 end
