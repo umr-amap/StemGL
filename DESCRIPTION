@@ -1,0 +1,12 @@
+Name: StemGL
+Version: 1.0.0
+Date: 2025-12-18
+Author: various authors
+Maintainer: Marc Jaeger <marc.jaeger@cirad.fr>
+Title: StemGL
+Description: Single Stem Greenlab model version.
+Categories: FSPM
+Depends: octave (>= 9.1.0)
+License: GPLv2
+Url: https://github.com/umr-amap/StemGL
+Tracker: https://github.com/umr-amap/StemGL/issues

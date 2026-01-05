@@ -31,6 +31,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+%% StemGL main function
 function[]= StemGL_Sim (varargin)
 %
 %
