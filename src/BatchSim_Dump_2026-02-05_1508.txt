@@ -1,75 +1,4 @@
-Storing 1 (1)  ..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4.par from ..\data\\Agro_Plant\\agro_arabido\
-Storing 1 (2)  ..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt.par from ..\data\\Agro_Plant\\agro_beetroot\
-Storing 2 (3)  ..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp.par from ..\data\\Agro_Plant\\agro_beetroot\
-Storing 3 (4)  ..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt.par from ..\data\\Agro_Plant\\agro_beetroot\
-Storing 4 (5)  ..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp.par from ..\data\\Agro_Plant\\agro_beetroot\
-Storing 1 (6)  ..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt.par from ..\data\\Agro_Plant\\agro_coffea\
-Storing 2 (7)  ..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt.par from ..\data\\Agro_Plant\\agro_coffea\
-Storing 3 (8)  ..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt.par from ..\data\\Agro_Plant\\agro_coffea\
-Storing 1 (9)  ..\data\\Agro_Plant\\agro_coton\1cotton27_phyt1.par from ..\data\\Agro_Plant\\agro_coton\
-Storing 2 (10)  ..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5.par from ..\data\\Agro_Plant\\agro_coton\
-Storing 3 (11)  ..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1.par from ..\data\\Agro_Plant\\agro_coton\
-Storing 1 (12)  ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.par from ..\data\\Agro_Plant\\agro_cucumber\
-Storing 2 (13)  ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.par from ..\data\\Agro_Plant\\agro_cucumber\
-Storing 1 (14)  ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.par from ..\data\\Agro_Plant\\agro_cucumber2\
-Storing 2 (15)  ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.par from ..\data\\Agro_Plant\\agro_cucumber2\
-Storing 1 (16)  ..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2.par from ..\data\\Agro_Plant\\agro_houblon\
-Storing 1 (17)  ..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1.par from ..\data\\Agro_Plant\\agro_lettuce\
-Storing 1 (18)  ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 2 (19)  ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 3 (20)  ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 4 (21)  ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 5 (22)  ..\data\\Agro_Plant\\agro_maize\5maize30_comp5.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 6 (23)  ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1.par from ..\data\\Agro_Plant\\agro_maize\
-Storing 1 (24)  ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.par from ..\data\\Agro_Plant\\agro_rice\
-Storing 2 (25)  ..\data\\Agro_Plant\\agro_rice\2rice29_comp8.par from ..\data\\Agro_Plant\\agro_rice\
-Storing 3 (26)  ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.par from ..\data\\Agro_Plant\\agro_rice\
-Storing 1 (27)  ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.par from ..\data\\Agro_Plant\\agro_sunflower\
-Storing 2 (28)  ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.par from ..\data\\Agro_Plant\\agro_sunflower\
-Storing 1 (29)  ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.par from ..\data\\Agro_Plant\\agro_tomate\
-Storing 2 (30)  ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.par from ..\data\\Agro_Plant\\agro_tomate\
-Storing 3 (31)  ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.par from ..\data\\Agro_Plant\\agro_tomate\
-Storing 4 (32)  ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.par from ..\data\\Agro_Plant\\agro_tomate\
-Storing 1 (33)  ..\data\\PMA18\PMA18_1tomat28.par from ..\data\\PMA18\
-Storing 2 (34)  ..\data\\PMA18\PMA18_2tomat28_expansion.par from ..\data\\PMA18\
-Storing 3 (35)  ..\data\\PMA18\PMA18_3tomat28_puits.par from ..\data\\PMA18\
-Storing 4 (36)  ..\data\\PMA18\PMA18_4tomat28_puits.par from ..\data\\PMA18\
-Storing 5 (37)  ..\data\\PMA18\PMA18_rnd_eq_01_b_1.par from ..\data\\PMA18\
-Storing 1 (38)  ..\data\\Virtual_Plant\\Climate\lt_01_clim_hyd_vidage.par from ..\data\\Virtual_Plant\\Climate\
-Storing 2 (39)  ..\data\\Virtual_Plant\\Climate\lt_02_clim_hyd_remplissage_vidage.par from ..\data\\Virtual_Plant\\Climate\
-Storing 3 (40)  ..\data\\Virtual_Plant\\Climate\lt_03_clim_hyd_period.par from ..\data\\Virtual_Plant\\Climate\
-Storing 4 (41)  ..\data\\Virtual_Plant\\Climate\lt_04_clim_hyd_stocha.par from ..\data\\Virtual_Plant\\Climate\
-Storing 5 (42)  ..\data\\Virtual_Plant\\Climate\lt_05_clim_E_Mods.par from ..\data\\Virtual_Plant\\Climate\
-Storing 6 (43)  ..\data\\Virtual_Plant\\Climate\lt_05_clim_E_Sp1.par from ..\data\\Virtual_Plant\\Climate\
-Storing 1 (44)  ..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq.par from ..\data\\Virtual_Plant\\Expansion_delay\
-Storing 2 (45)  ..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings.par from ..\data\\Virtual_Plant\\Expansion_delay\
-Storing 3 (46)  ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit.par from ..\data\\Virtual_Plant\\Expansion_delay\
-Storing 4 (47)  ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.par from ..\data\\Virtual_Plant\\Expansion_delay\
-Storing 5 (48)  ..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar.par from ..\data\\Virtual_Plant\\Expansion_delay\
-Storing 1 (49)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 2 (50)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 3 (51)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 4 (52)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 5 (53)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 6 (54)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 7 (55)  ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root.par from ..\data\\Virtual_Plant\\FreeGrowth_equi\
-Storing 1 (56)  ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp.par from ..\data\\Virtual_Plant\\LimitedGrowth_Sp\
-Storing 2 (57)  ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit.par from ..\data\\Virtual_Plant\\LimitedGrowth_Sp\
-Storing 3 (58)  ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings.par from ..\data\\Virtual_Plant\\LimitedGrowth_Sp\
-Storing 4 (59)  ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings.par from ..\data\\Virtual_Plant\\LimitedGrowth_Sp\
-Storing 5 (60)  ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings.par from ..\data\\Virtual_Plant\\LimitedGrowth_Sp\
-Storing 1 (61)  ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.par from ..\data\\Virtual_Plant\\MaskforPlant\
-Storing 2 (62)  ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.par from ..\data\\Virtual_Plant\\MaskforPlant\
-Storing 1 (63)  ..\data\\Virtual_Plant\\Pool\pool_b005_Sp.par from ..\data\\Virtual_Plant\\Pool\
-Storing 2 (64)  ..\data\\Virtual_Plant\\Pool\pool_w010_Sp.par from ..\data\\Virtual_Plant\\Pool\
-Storing 3 (65)  ..\data\\Virtual_Plant\\Pool\pool_w025_Sp.par from ..\data\\Virtual_Plant\\Pool\
-Storing 1 (66)  ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b.par from ..\data\\Virtual_Plant\\RandomPlant\
-Storing 2 (67)  ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring.par from ..\data\\Virtual_Plant\\RandomPlant\
-Storing 3 (68)  ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F.par from ..\data\\Virtual_Plant\\RandomPlant\
-Storing 4 (69)  ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf.par from ..\data\\Virtual_Plant\\RandomPlant\
-Storing 1 (70)  ..\data\\Virtual_Plant\\Remobilisation\1remob.par from ..\data\\Virtual_Plant\\Remobilisation\
-Storing 2 (71)  ..\data\\Virtual_Plant\\Remobilisation\2remob.par from ..\data\\Virtual_Plant\\Remobilisation\
-File list BatchSim_Files_2025-12-17_1213.txt   with 71 selected files
+File list BatchSim_Files_2026-02-05_1508.txt   with 71 selected files
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_arabido\Work\arabido37_comp4_phy4.dev performed
@@ -118,14 +47,14 @@ C:37  Biomass:80.227132(1390.876762)  leaf:1390.876762  internode:0.000000  ring
 ..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     1.187500      Total simulation     0.140625
+TOTAL CPU TIME     1.156250      Total simulation     0.125000
 ----------------------------------------------------------
-Parameter loading  0.031250      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.062500
+Parameter loading  0.078125      Development Axis     0.000000
+Mask load & apply  0.000000      Climate model        0.015625
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.062500
-Organic series     0.015625      Plotting results     0.796875
-Plant Display      0.203125      Target & Mask save   0.000000
+Plant Organ demand 0.015625      Plant Organ growth   0.078125
+Organic series     0.015625      Plotting results     0.750000
+Plant Display      0.171875      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_beetroot\Work\01beetroot64_comp_phyt.dev performed
@@ -201,14 +130,14 @@ C:64  Biomass:7.227067(253.407608)  leaf:56.454222  internode:0.000000  rings:0.
 ..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.671875      Total simulation     0.062500
+TOTAL CPU TIME     0.734375      Total simulation     0.062500
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
-Organ durations    0.000000      Sink Organ Beta laws 0.015625
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.031250      Plotting results     0.375000
-Plant Display      0.125000      Target & Mask save   0.015625
+Parameter loading  0.031250      Development Axis     0.000000
+Mask load & apply  0.046875      Climate model        0.000000
+Organ durations    0.000000      Sink Organ Beta laws 0.000000
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.109375      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_beetroot\Work\02beetroot64_comp.dev performed
@@ -284,14 +213,14 @@ C:64  Biomass:6.499239(240.128968)  leaf:48.454800  internode:0.000000  rings:0.
 ..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.734375      Total simulation     0.031250
+TOTAL CPU TIME     0.687500      Total simulation     0.046875
 ----------------------------------------------------------
-Parameter loading  0.031250      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.015625      Climate model        0.000000
-Organ durations    0.000000      Sink Organ Beta laws 0.015625
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organ durations    0.000000      Sink Organ Beta laws 0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
 Organic series     0.000000      Plotting results     0.500000
-Plant Display      0.109375      Target & Mask save   0.015625
+Plant Display      0.125000      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_beetroot\Work\1beetroot64_comp_phyt.dev performed
@@ -367,14 +296,14 @@ C:64  Biomass:7.227067(253.407608)  leaf:56.454222  internode:0.000000  rings:0.
 ..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.031250
+TOTAL CPU TIME     0.640625      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.031250
-Organic series     0.000000      Plotting results     0.484375
-Plant Display      0.156250      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.015625
+Organic series     0.000000      Plotting results     0.453125
+Plant Display      0.140625      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_beetroot\Work\2beetroot64_comp.dev performed
@@ -450,14 +379,14 @@ C:64  Biomass:6.499239(240.128968)  leaf:48.454800  internode:0.000000  rings:0.
 ..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.031250
+TOTAL CPU TIME     0.640625      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.031250      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.421875
-Plant Display      0.203125      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.453125
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_canephora12_phyt.dev performed
@@ -481,14 +410,14 @@ C:12  Biomass:28.650815(48.889465)  leaf:30.072331  internode:7.419969  rings:18
 ..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.671875      Total simulation     0.000000
+TOTAL CPU TIME     0.781250      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.015625      Development Axis     0.015625
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.171875      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.578125
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_liberica9_phyt.dev performed
@@ -509,14 +438,14 @@ C:9  Biomass:31.094281(53.448606)  leaf:40.673129  internode:12.775477  rings:12
 ..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.656250      Total simulation     0.000000
+TOTAL CPU TIME     0.671875      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_racemosa29_phyt.dev performed
@@ -557,14 +486,14 @@ C:29  Biomass:5.471070(34.480348)  leaf:14.978112  internode:19.502236  rings:19
 ..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.640625      Total simulation     0.000000
+TOTAL CPU TIME     0.781250      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.515625
+Plant Display      0.218750      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coton\1cotton27_phyt1.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coton\Work\1cotton27_phyt1.dev performed
@@ -608,9 +537,9 @@ TOTAL CPU TIME     0.656250      Total simulation     0.015625
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.140625      Target & Mask save   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.015625
+Organic series     0.000000      Plotting results     0.421875
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coton\Work\2cotton27_comp5_phyt5.dev performed
@@ -649,14 +578,14 @@ C:27  Biomass:48.765269(502.401783)  leaf:285.967179  internode:136.634492  ring
 ..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.875000      Total simulation     0.015625
+TOTAL CPU TIME     0.765625      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.625000
-Plant Display      0.187500      Target & Mask save   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.203125      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (24 lines) ..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_coton\Work\3cotton27_comp5_phyt1.dev performed
@@ -695,14 +624,14 @@ C:27  Biomass:47.432323(510.986891)  leaf:284.527249  internode:148.076045  ring
 ..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.031250
+TOTAL CPU TIME     0.828125      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.031250      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.437500
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.015625      Plotting results     0.515625
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.msk loaded.
@@ -746,14 +675,14 @@ C:31  Biomass:77.259463(1875.813950)  leaf:134.598529  internode:56.663043  ring
 ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.859375      Total simulation     0.015625
+TOTAL CPU TIME     0.921875      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.671875
-Plant Display      0.140625      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.656250
+Plant Display      0.203125      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.msk loaded.
@@ -797,14 +726,14 @@ C:31  Biomass:72.447320(1862.304509)  leaf:143.877987  internode:63.554221  ring
 ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.015625
+TOTAL CPU TIME     0.921875      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.562500
-Plant Display      0.218750      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.640625
+Plant Display      0.250000      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.msk loaded.
@@ -848,14 +777,14 @@ C:31  Biomass:77.259463(1875.813950)  leaf:134.598529  internode:56.663043  ring
 ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.968750      Total simulation     0.000000
+TOTAL CPU TIME     0.968750      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.750000
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.703125
+Plant Display      0.234375      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.msk loaded.
@@ -899,13 +828,13 @@ C:31  Biomass:37.387277(1128.787755)  leaf:86.113476  internode:40.549366  rings
 ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.750000      Total simulation     0.000000
+TOTAL CPU TIME     0.843750      Total simulation     0.031250
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
+Parameter loading  0.015625      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.515625
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.578125
 Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2.par loaded.
@@ -943,14 +872,14 @@ C:25  Biomass:4.241378(28.367342)  leaf:21.904772  internode:6.462570  rings:6.4
 ..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.593750      Total simulation     0.000000
+TOTAL CPU TIME     0.625000      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.390625
-Plant Display      0.156250      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.109375      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1.par loaded.
 Development Dump in: ..\data\\Agro_Plant\\agro_lettuce\Work\lettuce36_phyt1.dev performed
@@ -998,14 +927,14 @@ C:36  Biomass:7.626066(123.102286)  leaf:123.102286  internode:0.000000  rings:0
 ..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.421875      Total simulation     0.015625
+TOTAL CPU TIME     0.453125      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
 Organic series     0.000000      Plotting results     0.265625
-Plant Display      0.109375      Target & Mask save   0.015625
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.msk loaded.
@@ -1048,14 +977,14 @@ C:30  Biomass:12.128322(1482.458270)  leaf:283.886090  internode:450.100905  rin
 ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.843750      Total simulation     0.015625
+TOTAL CPU TIME     0.937500      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.609375
-Plant Display      0.187500      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.640625
+Plant Display      0.218750      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.msk loaded.
@@ -1098,14 +1027,14 @@ C:30  Biomass:13.662251(1438.220027)  leaf:274.710561  internode:439.731756  rin
 ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.015625
+TOTAL CPU TIME     0.859375      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.031250      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.640625
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.593750
+Plant Display      0.171875      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.msk loaded.
@@ -1148,14 +1077,14 @@ C:30  Biomass:14.284309(1450.728477)  leaf:284.284968  internode:453.851809  rin
 ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.843750      Total simulation     0.000000
+TOTAL CPU TIME     0.921875      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.031250      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.578125
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.671875
+Plant Display      0.171875      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.msk loaded.
@@ -1198,13 +1127,13 @@ C:30  Biomass:14.287631(1452.565317)  leaf:286.420181  internode:453.744096  rin
 ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.812500      Total simulation     0.031250
+TOTAL CPU TIME     0.765625      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.031250      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.546875
+Organic series     0.000000      Plotting results     0.531250
 Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\5maize30_comp5.par loaded.
@@ -1248,13 +1177,13 @@ C:30  Biomass:14.595806(1437.905031)  leaf:263.918791  internode:458.216144  rin
 ..\data\\Agro_Plant\\agro_maize\5maize30_comp5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.796875      Total simulation     0.015625
+TOTAL CPU TIME     0.703125      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.578125
+Organic series     0.000000      Plotting results     0.515625
 Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1.par loaded.
@@ -1298,14 +1227,14 @@ C:30  Biomass:14.042299(1445.833412)  leaf:272.027581  internode:447.521653  rin
 ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.859375      Total simulation     0.015625
+TOTAL CPU TIME     0.968750      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.625000
-Plant Display      0.187500      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.656250
+Plant Display      0.234375      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.msk loaded.
@@ -1336,13 +1265,13 @@ C:18  Biomass:1.271060(8.797484)  leaf:2.106085  internode:2.242856  rings:2.242
 ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.000000
+TOTAL CPU TIME     0.718750      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.500000
+Organic series     0.000000      Plotting results     0.515625
 Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\2rice29_comp8.par loaded.
@@ -1385,14 +1314,14 @@ C:29  Biomass:0.341657(15.963364)  leaf:1.298487  internode:1.695317  rings:1.69
 ..\data\\Agro_Plant\\agro_rice\2rice29_comp8
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.750000      Total simulation     0.015625
+TOTAL CPU TIME     0.859375      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.531250
-Plant Display      0.171875      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.656250
+Plant Display      0.140625      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.msk loaded.
@@ -1434,14 +1363,14 @@ C:29  Biomass:0.240039(15.625423)  leaf:0.370384  internode:2.399835  rings:2.39
 ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.015625
+TOTAL CPU TIME     0.781250      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Parameter loading  0.015625      Development Axis     0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.625000
-Plant Display      0.140625      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.562500
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.msk loaded.
@@ -1574,14 +1503,14 @@ C:120  Biomass:17.759348(1294.105407)  leaf:312.724869  internode:352.930917  ri
 ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.984375      Total simulation     0.046875
+TOTAL CPU TIME     1.000000      Total simulation     0.046875
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.015625
 Plant Organ demand 0.000000      Plant Organ growth   0.015625
 Organic series     0.000000      Plotting results     0.640625
-Plant Display      0.234375      Target & Mask save   0.031250
+Plant Display      0.250000      Target & Mask save   0.031250
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.msk loaded.
@@ -1657,14 +1586,14 @@ C:63  Biomass:14.737843(296.252338)  leaf:126.103506  internode:112.598842  ring
 ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.625000      Total simulation     0.000000
+TOTAL CPU TIME     0.687500      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.140625      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.437500
+Plant Display      0.187500      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (24 lines) ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.msk loaded.
@@ -1707,14 +1636,14 @@ C:30  Biomass:139.786929(2698.483473)  leaf:261.297210  internode:158.737115  ri
 ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.703125      Total simulation     0.015625
+TOTAL CPU TIME     0.718750      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.515625
-Plant Display      0.140625      Target & Mask save   0.015625
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.484375
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.msk loaded.
@@ -1755,14 +1684,14 @@ C:28  Biomass:148.490205(2322.290795)  leaf:224.908302  internode:180.196551  ri
 ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.843750      Total simulation     0.015625
+TOTAL CPU TIME     0.906250      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
 Organic series     0.000000      Plotting results     0.609375
-Plant Display      0.171875      Target & Mask save   0.015625
+Plant Display      0.281250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.msk loaded.
@@ -1803,14 +1732,14 @@ C:28  Biomass:141.341354(2384.800512)  leaf:233.519266  internode:173.321092  ri
 ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.015625
+TOTAL CPU TIME     0.750000      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Parameter loading  0.015625      Development Axis     0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.578125
-Plant Display      0.187500      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.562500
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.par loaded.
 Mask file ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.msk loaded.
@@ -1851,14 +1780,14 @@ C:28  Biomass:6.386357(121.512486)  leaf:25.955895  internode:14.492503  rings:1
 ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.906250      Total simulation     0.015625
+TOTAL CPU TIME     0.781250      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.609375
-Plant Display      0.218750      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.578125
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\PMA18\PMA18_1tomat28.par loaded.
 Mask file ..\data\\PMA18\PMA18_1tomat28.msk loaded.
@@ -1899,14 +1828,14 @@ C:28  Biomass:148.344551(2609.407942)  leaf:273.070718  internode:207.233293  ri
 ..\data\\PMA18\PMA18_1tomat28
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.890625      Total simulation     0.031250
+TOTAL CPU TIME     0.921875      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
+Parameter loading  0.031250      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.671875
-Plant Display      0.156250      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.625000
+Plant Display      0.234375      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\PMA18\PMA18_2tomat28_expansion.par loaded.
 Mask file ..\data\\PMA18\PMA18_2tomat28_expansion.msk loaded.
@@ -1947,14 +1876,14 @@ C:28  Biomass:48.290059(1358.174006)  leaf:69.690381  internode:49.538020  rings
 ..\data\\PMA18\PMA18_2tomat28_expansion
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.859375      Total simulation     0.000000
+TOTAL CPU TIME     0.906250      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.656250
-Plant Display      0.171875      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.687500
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\PMA18\PMA18_3tomat28_puits.par loaded.
 Mask file ..\data\\PMA18\PMA18_3tomat28_puits.msk loaded.
@@ -1995,13 +1924,13 @@ C:28  Biomass:169.321553(2732.527986)  leaf:363.989900  internode:278.453432  ri
 ..\data\\PMA18\PMA18_3tomat28_puits
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.859375      Total simulation     0.015625
+TOTAL CPU TIME     0.906250      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Parameter loading  0.015625      Development Axis     0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.609375
+Organic series     0.000000      Plotting results     0.671875
 Plant Display      0.203125      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\PMA18\PMA18_4tomat28_puits.par loaded.
@@ -2043,14 +1972,14 @@ C:28  Biomass:169.394656(2667.422810)  leaf:307.281102  internode:244.784767  ri
 ..\data\\PMA18\PMA18_4tomat28_puits
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.765625      Total simulation     0.000000
+TOTAL CPU TIME     0.859375      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.578125
-Plant Display      0.156250      Target & Mask save   0.000000
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.609375
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\PMA18\PMA18_rnd_eq_01_b_1.par loaded.
 Development Dump in: ..\data\\PMA18\Work\PMA18_rnd_eq_01_b_1.dev performed
@@ -2092,14 +2021,14 @@ C:30  Biomass:0.625197(17.584283)  leaf:8.792141  internode:8.792141  rings:8.79
 ..\data\\PMA18\PMA18_rnd_eq_01_b_1
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.859375      Total simulation     0.093750
+TOTAL CPU TIME     0.812500      Total simulation     0.125000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.093750
-Organic series     0.000000      Plotting results     0.531250
-Plant Display      0.203125      Target & Mask save   0.000000
+Plant Organ demand 0.031250      Plant Organ growth   0.093750
+Organic series     0.000000      Plotting results     0.468750
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_01_clim_hyd_vidage.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_01_clim_hyd_vidage.dev performed
@@ -2141,14 +2070,14 @@ C:30  Biomass:13.740295(116.159928)  leaf:116.159925  internode:0.000003  rings:
 ..\data\\Virtual_Plant\\Climate\lt_01_clim_hyd_vidage
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.750000      Total simulation     0.031250
+TOTAL CPU TIME     0.703125      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.031250
-Organic series     0.000000      Plotting results     0.500000
-Plant Display      0.171875      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.437500
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_02_clim_hyd_remplissage_vidage.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_02_clim_hyd_remplissage_vidage.dev performed
@@ -2190,14 +2119,14 @@ C:30  Biomass:13.740295(116.159928)  leaf:116.159925  internode:0.000003  rings:
 ..\data\\Virtual_Plant\\Climate\lt_02_clim_hyd_remplissage_vidage
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.609375      Total simulation     0.000000
+TOTAL CPU TIME     0.671875      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.437500
-Plant Display      0.156250      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.453125
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_03_clim_hyd_period.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_03_clim_hyd_period.dev performed
@@ -2309,14 +2238,14 @@ C:100  Biomass:19.999992(1474.785247)  leaf:1474.785237  internode:0.000010  rin
 ..\data\\Virtual_Plant\\Climate\lt_03_clim_hyd_period
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.703125      Total simulation     0.031250
+TOTAL CPU TIME     0.625000      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.515625
-Plant Display      0.125000      Target & Mask save   0.015625
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.437500
+Plant Display      0.140625      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_04_clim_hyd_stocha.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_04_clim_hyd_stocha.dev performed
@@ -2434,8 +2363,8 @@ Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.031250      Plotting results     0.468750
-Plant Display      0.125000      Target & Mask save   0.015625
+Organic series     0.031250      Plotting results     0.406250
+Plant Display      0.187500      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_05_clim_E_Mods.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_05_clim_E_Mods.dev performed
@@ -2477,14 +2406,14 @@ C:30  Biomass:65.490974(1684.616283)  leaf:842.308142  internode:842.308142  rin
 ..\data\\Virtual_Plant\\Climate\lt_05_clim_E_Mods
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.015625
+TOTAL CPU TIME     0.625000      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.484375
-Plant Display      0.171875      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.453125
+Plant Display      0.109375      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Climate\lt_05_clim_E_Sp1.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Climate\Work\lt_05_clim_E_Sp1.dev performed
@@ -2528,12 +2457,12 @@ C:30  Biomass:91.238548(1341.191726)  leaf:670.595863  internode:670.595863  rin
 Performances Env: MATLAB 8.0 Use CPP: 0
 TOTAL CPU TIME     0.609375      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.406250
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.390625
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay01_Root_eq.dev performed
@@ -2575,14 +2504,14 @@ C:30  Biomass:26.257483(617.452590)  leaf:334.805284  internode:69.679393  rings
 ..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.687500      Total simulation     0.000000
+TOTAL CPU TIME     0.718750      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.031250      Development Axis     0.000000
+Parameter loading  0.015625      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.500000
-Plant Display      0.125000      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.515625
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay02_Rings.dev performed
@@ -2624,14 +2553,14 @@ C:30  Biomass:2.720540(66.263425)  leaf:35.889595  internode:7.177919  rings:30.
 ..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.656250      Total simulation     0.000000
+TOTAL CPU TIME     0.671875      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
 Organic series     0.000000      Plotting results     0.484375
-Plant Display      0.156250      Target & Mask save   0.000000
+Plant Display      0.140625      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay03_msk_Fruit.dev performed
@@ -2666,14 +2595,14 @@ C:23  Biomass:0.018499(8.226720)  leaf:2.770797  internode:2.770797  rings:2.770
 ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.781250      Total simulation     0.015625
+TOTAL CPU TIME     0.875000      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.562500
-Plant Display      0.171875      Target & Mask save   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.593750
+Plant Display      0.203125      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.par loaded.
 Mask file ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.msk loaded.
@@ -2711,14 +2640,14 @@ C:25  Biomass:1.779979(25.488542)  leaf:11.459500  internode:11.459500  rings:11
 ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.000000
+TOTAL CPU TIME     0.703125      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.671875
-Plant Display      0.125000      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.484375
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Expansion_delay\Work\expan01_sinkvar.dev performed
@@ -2760,14 +2689,14 @@ C:30  Biomass:27.610732(207.496690)  leaf:63.725183  internode:12.745037  rings:
 ..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.812500      Total simulation     0.000000
+TOTAL CPU TIME     0.828125      Total simulation     0.031250
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
+Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.625000
-Plant Display      0.156250      Target & Mask save   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.593750
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_01_ta5_tx5.dev performed
@@ -2809,14 +2738,14 @@ C:30  Biomass:0.686229(18.317869)  leaf:9.158934  internode:9.158934  rings:9.15
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.562500      Total simulation     0.000000
+TOTAL CPU TIME     0.578125      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.375000
-Plant Display      0.156250      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.406250
+Plant Display      0.125000      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_02_w_abort_ta5_tx5.dev performed
@@ -2878,14 +2807,14 @@ C:50  Biomass:0.000000(0.000000)  leaf:0.000000  internode:0.000000  rings:0.000
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.593750      Total simulation     0.015625
+TOTAL CPU TIME     0.765625      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.421875
-Plant Display      0.125000      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.531250
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_03_ta4_tx3_2bld_6fr.dev performed
@@ -2947,13 +2876,13 @@ C:50  Biomass:0.661129(32.800706)  leaf:7.289046  internode:3.644523  rings:3.64
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.000000
+TOTAL CPU TIME     0.859375      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.593750
+Organic series     0.000000      Plotting results     0.625000
 Plant Display      0.218750      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo.par loaded.
@@ -2981,14 +2910,14 @@ C:15  Biomass:0.044006(4.781300)  leaf:2.390650  internode:2.390650  rings:2.390
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.562500      Total simulation     0.000000
+TOTAL CPU TIME     0.546875      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
 Organic series     0.000000      Plotting results     0.359375
-Plant Display      0.156250      Target & Mask save   0.015625
+Plant Display      0.125000      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_05_E1_Qo_aQo.dev performed
@@ -3030,14 +2959,14 @@ C:30  Biomass:2.214526(56.367237)  leaf:28.183618  internode:28.183618  rings:28
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.640625      Total simulation     0.031250
+TOTAL CPU TIME     0.562500      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.015625      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.031250      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.406250
-Plant Display      0.171875      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.375000
+Plant Display      0.140625      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_06_lbd1_rings.dev performed
@@ -3079,14 +3008,14 @@ C:30  Biomass:0.686229(18.317869)  leaf:9.158934  internode:1.831787  rings:9.15
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.546875      Total simulation     0.000000
+TOTAL CPU TIME     0.593750      Total simulation     0.000000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
+Parameter loading  0.015625      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.343750
-Plant Display      0.171875      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.406250
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_07_root.dev performed
@@ -3128,14 +3057,14 @@ C:30  Biomass:0.233815(7.505081)  leaf:3.369678  internode:0.827081  rings:0.827
 ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.640625      Total simulation     0.000000
+TOTAL CPU TIME     0.562500      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.453125
-Plant Display      0.140625      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.390625
+Plant Display      0.125000      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_01_Sp.dev performed
@@ -3177,14 +3106,14 @@ C:30  Biomass:91.238548(1341.191726)  leaf:670.595863  internode:670.595863  rin
 ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.640625      Total simulation     0.000000
+TOTAL CPU TIME     0.734375      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.484375
-Plant Display      0.125000      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.468750
+Plant Display      0.203125      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_02_Sp_root_fruit.dev performed
@@ -3226,14 +3155,14 @@ C:30  Biomass:8.669772(68.830498)  leaf:19.445196  internode:19.445196  rings:19
 ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.796875      Total simulation     0.000000
+TOTAL CPU TIME     0.859375      Total simulation     0.015625
 ----------------------------------------------------------
-Parameter loading  0.031250      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.609375
-Plant Display      0.140625      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.640625
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_03_lbd0_rings.dev performed
@@ -3275,14 +3204,14 @@ C:30  Biomass:97.372445(1169.096647)  leaf:201.034941  internode:100.517470  rin
 ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.531250      Total simulation     0.031250
+TOTAL CPU TIME     0.765625      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.031250
-Organic series     0.000000      Plotting results     0.359375
-Plant Display      0.109375      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.578125
+Plant Display      0.140625      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_04_lbd1_rings.dev performed
@@ -3324,14 +3253,14 @@ C:30  Biomass:97.372445(1169.096647)  leaf:201.034941  internode:100.517470  rin
 ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.734375      Total simulation     0.000000
+TOTAL CPU TIME     0.718750      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.515625
-Plant Display      0.187500      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_05_lbd05_rings.dev performed
@@ -3373,14 +3302,14 @@ C:30  Biomass:97.372445(1169.096647)  leaf:201.034941  internode:100.517470  rin
 ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.562500      Total simulation     0.031250
+TOTAL CPU TIME     0.671875      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.031250      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.375000
-Plant Display      0.140625      Target & Mask save   0.000000
+Plant Organ demand 0.000000      Plant Organ growth   0.031250
+Organic series     0.000000      Plotting results     0.421875
+Plant Display      0.187500      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.par loaded.
 Mask file ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.msk loaded.
@@ -3424,14 +3353,14 @@ C:31  Biomass:0.000000(0.000000)  leaf:0.000000  internode:0.000000  rings:0.000
 ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.828125      Total simulation     0.015625
+TOTAL CPU TIME     0.765625      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.015625      Climate model        0.000000
+Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.562500
-Plant Display      0.187500      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.625000
+Plant Display      0.125000      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.par loaded.
 Mask file ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.msk loaded.
@@ -3474,14 +3403,14 @@ C:30  Biomass:2.570046(64.693312)  leaf:5.146302  internode:6.834393  rings:6.83
 ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.718750      Total simulation     0.000000
+TOTAL CPU TIME     0.750000      Total simulation     0.000000
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.484375
-Plant Display      0.171875      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.531250
+Plant Display      0.171875      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Pool\pool_b005_Sp.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Pool\Work\pool_b005_Sp.dev performed
@@ -3523,14 +3452,14 @@ C:30  Biomass:399.805551(8050.657333)  leaf:3211.205949  internode:3211.205949  
 ..\data\\Virtual_Plant\\Pool\pool_b005_Sp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.625000      Total simulation     0.000000
+TOTAL CPU TIME     0.703125      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.468750
-Plant Display      0.125000      Target & Mask save   0.015625
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.484375
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Pool\pool_w010_Sp.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Pool\Work\pool_w010_Sp.dev performed
@@ -3604,14 +3533,14 @@ Alert writing target qo > 999
 ..\data\\Virtual_Plant\\Pool\pool_w010_Sp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.625000      Total simulation     0.031250
+TOTAL CPU TIME     0.734375      Total simulation     0.031250
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.000000      Plant Organ growth   0.031250
-Organic series     0.000000      Plotting results     0.437500
-Plant Display      0.109375      Target & Mask save   0.015625
+Organic series     0.000000      Plotting results     0.500000
+Plant Display      0.156250      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Pool\pool_w025_Sp.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Pool\Work\pool_w025_Sp.dev performed
@@ -3653,14 +3582,14 @@ C:30  Biomass:371.947604(8554.699675)  leaf:2851.566558  internode:2851.566558  
 ..\data\\Virtual_Plant\\Pool\pool_w025_Sp
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.640625      Total simulation     0.015625
+TOTAL CPU TIME     0.671875      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.000000      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.000000      Plant Organ growth   0.015625
-Organic series     0.000000      Plotting results     0.406250
-Plant Display      0.171875      Target & Mask save   0.015625
+Plant Organ demand 0.015625      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.468750
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_eq_01_b.dev performed
@@ -3702,14 +3631,14 @@ C:30  Biomass:0.659534(17.928377)  leaf:8.964189  internode:8.964189  rings:8.96
 ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.906250      Total simulation     0.234375
+TOTAL CPU TIME     0.859375      Total simulation     0.234375
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.000000
+Parameter loading  0.015625      Development Axis     0.000000
 Mask load & apply  0.031250      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
 Plant Organ demand 0.062500      Plant Organ growth   0.140625
-Organic series     0.000000      Plotting results     0.437500
-Plant Display      0.218750      Target & Mask save   0.000000
+Organic series     0.000000      Plotting results     0.421875
+Plant Display      0.156250      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_eq_02_b_w_ring.dev performed
@@ -3751,14 +3680,14 @@ C:30  Biomass:0.662855(18.253703)  leaf:9.126852  internode:1.825370  rings:9.12
 ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     1.046875      Total simulation     0.296875
+TOTAL CPU TIME     0.953125      Total simulation     0.250000
 ----------------------------------------------------------
-Parameter loading  0.000000      Development Axis     0.015625
-Mask load & apply  0.046875      Climate model        0.000000
+Parameter loading  0.000000      Development Axis     0.000000
+Mask load & apply  0.031250      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.062500      Plant Organ growth   0.187500
-Organic series     0.000000      Plotting results     0.578125
-Plant Display      0.140625      Target & Mask save   0.000000
+Plant Organ demand 0.062500      Plant Organ growth   0.156250
+Organic series     0.000000      Plotting results     0.453125
+Plant Display      0.218750      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_lt_03_bf_F.dev performed
@@ -3810,14 +3739,14 @@ C:40  Biomass:91.728925(2291.717496)  leaf:579.338412  internode:579.338412  rin
 ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     1.156250      Total simulation     0.359375
+TOTAL CPU TIME     1.281250      Total simulation     0.421875
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.046875      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.109375      Plant Organ growth   0.187500
-Organic series     0.015625      Plotting results     0.562500
-Plant Display      0.187500      Target & Mask save   0.000000
+Plant Organ demand 0.125000      Plant Organ growth   0.234375
+Organic series     0.015625      Plotting results     0.609375
+Plant Display      0.218750      Target & Mask save   0.000000
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_lt_04_b_bf.dev performed
@@ -3869,14 +3798,14 @@ C:40  Biomass:91.171105(2301.632610)  leaf:588.529927  internode:588.529927  rin
 ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     1.171875      Total simulation     0.375000
+TOTAL CPU TIME     1.296875      Total simulation     0.421875
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
 Mask load & apply  0.046875      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.109375      Plant Organ growth   0.218750
-Organic series     0.000000      Plotting results     0.531250
-Plant Display      0.218750      Target & Mask save   0.015625
+Plant Organ demand 0.125000      Plant Organ growth   0.250000
+Organic series     0.000000      Plotting results     0.640625
+Plant Display      0.187500      Target & Mask save   0.015625
 MATLAB 8.0
 Parameter file (23 lines) ..\data\\Virtual_Plant\\Remobilisation\1remob.par loaded.
 Development Dump in: ..\data\\Virtual_Plant\\Remobilisation\Work\1remob.dev performed
@@ -3916,13 +3845,13 @@ C:28  Biomass:10.599323(134.316133)  leaf:12.549360  internode:12.549360  rings:
 ..\data\\Virtual_Plant\\Remobilisation\1remob
 
 Performances Env: MATLAB 8.0 Use CPP: 0
-TOTAL CPU TIME     0.750000      Total simulation     0.015625
+TOTAL CPU TIME     0.796875      Total simulation     0.015625
 ----------------------------------------------------------
 Parameter loading  0.000000      Development Axis     0.000000
-Mask load & apply  0.000000      Climate model        0.000000
+Mask load & apply  0.015625      Climate model        0.000000
 Organ durations    0.000000      Sink Organ Beta laws 0.000000
-Plant Organ demand 0.015625      Plant Organ growth   0.000000
-Organic series     0.000000      Plotting results     0.546875
-Plant Display      0.140625      Target & Mask save   0.015625
+Plant Organ demand 0.000000      Plant Organ growth   0.000000
+Organic series     0.000000      Plotting results     0.578125
+Plant Display      0.156250      Target & Mask save   0.015625
 
-SCRIPT TOTAL CPU TIME    53.062500
+SCRIPT TOTAL CPU TIME    54.703125

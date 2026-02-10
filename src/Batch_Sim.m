@@ -58,6 +58,7 @@ function[]= Batch_Sim ( )
         while ( (~feof(fbatchlist)) && (~isempty(filename)) )
             % lauch StemGL_Sim with input file as option
             StemGL_Sim ('-i', filename);
+            % load next filename
             filename = fgetl(fbatchlist);
         end
         fclose (fbatchlist);   

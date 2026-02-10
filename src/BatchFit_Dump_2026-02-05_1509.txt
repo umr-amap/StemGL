@@ -1,0 +1,1967 @@
+File list BatchFit_Files_2026-02-05_1509.txt   with 71 selected files
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4.targ
+Target Organ(1):Blade-size/position 1
+ 1 586.264 47034.3 3.01393 2.31322  err:2.97891
+ 2 583.467 46817.6 3.05414 2.34216  err:2.97253
+ 3 583.316 46809.1 3.03385 2.32628  err:2.97243
+ 4 583.18 46791.2 3.03065 2.32461  err:2.97242
+ 5 583.153 46788.3 3.02908 2.32353  err:2.97241
+ 6 583.142 46787 3.02869 2.32328  err:2.97241
+ 7 583.139 46786.6 3.02855 2.32318  err:2.97241
+ 8 583.138 46786.5 3.0285 2.32316  err:2.97241
+ 9 583.138 46786.5 3.02849 2.32315  err:2.97241
+10 583.138 46786.4 3.02849 2.32315  err:2.97241
+11 583.138 46786.4 3.02849 2.32315  err:2.97241
+12 583.138 46786.4 3.02849 2.32315  err:2.97241
+13 583.138 46786.4 3.02848 2.32315  err:2.97241
+14 583.138 46786.4 3.02848 2.32315  err:2.97241
+15 583.138 46786.4 3.02848 2.32315  err:2.97241
+
+Fitted Parameter values. Error: 2.97241 
+ xr___:583.138  xSp__:46786.4  xBa1_:3.02848  xBa2_:2.32315 
+Fitted Parameter standard deviation 
+ xr___:13.1697  xSp__:2199.96  xBa1_:0.55936  xBa2_:0.435496  
+Parameter save in: ..\data\\Agro_Plant\\agro_arabido\Work\arabido37_comp4_phy4fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_arabido\arabido37_comp4_phy4
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.875000      Total simulation  0.296875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.015625      Climate model     0.000000
+Parameter fitting 0.281250      Plotting results  0.421875
+Parameter saving: 0.015625      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt.targ
+Target Organ(1):Blade-size/position 1
+ 1 171.684 1272.48 421.266 1.79614 5.12216  err:16.9856
+ 2 170.577 1260.44 417.607 1.79499 5.1097  err:16.9166
+ 3 170.693 1261.81 417.744 1.79675 5.11206  err:16.9165
+ 4 170.64 1260.97 417.597 1.79598 5.11089  err:16.9165
+ 5 170.66 1261.29 417.663 1.79626 5.11136  err:16.9165
+ 6 170.651 1261.14 417.637 1.79612 5.11115  err:16.9165
+ 7 170.655 1261.21 417.649 1.79619 5.11125  err:16.9165
+ 8 170.653 1261.18 417.643 1.79616 5.1112  err:16.9165
+ 9 170.654 1261.19 417.646 1.79617 5.11123  err:16.9165
+10 170.654 1261.19 417.645 1.79616 5.11121  err:16.9165
+11 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+12 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+13 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+14 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+15 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+
+Fitted Parameter values. Error: 16.9165 
+ xr___:170.654  xSp__:1261.19  xpt__:417.645  xBa1_:1.79617  xBt1_:5.11122 
+Fitted Parameter standard deviation 
+ xr___:5.67695  xSp__:120.257  xpt__:82.8859  xBa1_:0.0512392  xBt1_:0.207068  
+Parameter save in: ..\data\\Agro_Plant\\agro_beetroot\Work\01beetroot64_comp_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_beetroot\01beetroot64_comp_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.171875      Total simulation  0.421875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.421875      Plotting results  0.656250
+Parameter saving: 0.015625      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp.targ
+ 1 161.114 1072.1 516.615  err:0.503582
+ 2 160.392 1065.05 516.816  err:0.501384
+ 3 160.49 1066.86 516.39  err:0.50138
+ 4 160.475 1066.6 516.461  err:0.50138
+ 5 160.477 1066.64 516.45  err:0.50138
+ 6 160.477 1066.63 516.452  err:0.50138
+ 7 160.477 1066.63 516.451  err:0.50138
+ 8 160.477 1066.63 516.451  err:0.50138
+ 9 160.477 1066.63 516.451  err:0.50138
+10 160.477 1066.63 516.451  err:0.50138
+11 160.477 1066.63 516.451  err:0.50138
+12 160.477 1066.63 516.451  err:0.50138
+13 160.477 1066.63 516.451  err:0.50138
+14 160.477 1066.63 516.451  err:0.50138
+15 160.477 1066.63 516.451  err:0.50138
+
+Fitted Parameter values. Error: 0.50138 
+ xr___:160.477  xSp__:1066.63  xpt__:516.451 
+Fitted Parameter standard deviation 
+ xr___:7.38652  xSp__:133.926  xpt__:43.9832  
+Parameter save in: ..\data\\Agro_Plant\\agro_beetroot\Work\02beetroot64_compfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_beetroot\02beetroot64_comp
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.750000      Total simulation  0.421875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.421875      Plotting results  0.218750
+Parameter saving: 0.000000      Plant Display     0.093750
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt.targ
+Target Organ(1):Blade-size/position 1
+ 1 171.684 1272.48 421.266 1.79614 5.12216  err:16.9856
+ 2 170.577 1260.44 417.607 1.79499 5.1097  err:16.9166
+ 3 170.693 1261.81 417.744 1.79675 5.11206  err:16.9165
+ 4 170.64 1260.97 417.597 1.79598 5.11089  err:16.9165
+ 5 170.66 1261.29 417.663 1.79626 5.11136  err:16.9165
+ 6 170.651 1261.14 417.637 1.79612 5.11115  err:16.9165
+ 7 170.655 1261.21 417.649 1.79619 5.11125  err:16.9165
+ 8 170.653 1261.18 417.643 1.79616 5.1112  err:16.9165
+ 9 170.654 1261.19 417.646 1.79617 5.11123  err:16.9165
+10 170.654 1261.19 417.645 1.79616 5.11121  err:16.9165
+11 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+12 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+13 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+14 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+15 170.654 1261.19 417.645 1.79617 5.11122  err:16.9165
+
+Fitted Parameter values. Error: 16.9165 
+ xr___:170.654  xSp__:1261.19  xpt__:417.645  xBa1_:1.79617  xBt1_:5.11122 
+Fitted Parameter standard deviation 
+ xr___:5.67695  xSp__:120.257  xpt__:82.8859  xBa1_:0.0512392  xBt1_:0.207068  
+Parameter save in: ..\data\\Agro_Plant\\agro_beetroot\Work\1beetroot64_comp_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_beetroot\1beetroot64_comp_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.031250      Total simulation  0.390625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.390625      Plotting results  0.562500
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp.targ
+ 1 161.114 1072.1 516.615  err:0.503582
+ 2 160.392 1065.05 516.816  err:0.501384
+ 3 160.49 1066.86 516.39  err:0.50138
+ 4 160.475 1066.6 516.461  err:0.50138
+ 5 160.477 1066.64 516.45  err:0.50138
+ 6 160.477 1066.63 516.452  err:0.50138
+ 7 160.477 1066.63 516.451  err:0.50138
+ 8 160.477 1066.63 516.451  err:0.50138
+ 9 160.477 1066.63 516.451  err:0.50138
+10 160.477 1066.63 516.451  err:0.50138
+11 160.477 1066.63 516.451  err:0.50138
+12 160.477 1066.63 516.451  err:0.50138
+13 160.477 1066.63 516.451  err:0.50138
+14 160.477 1066.63 516.451  err:0.50138
+15 160.477 1066.63 516.451  err:0.50138
+
+Fitted Parameter values. Error: 0.50138 
+ xr___:160.477  xSp__:1066.63  xpt__:516.451 
+Fitted Parameter standard deviation 
+ xr___:7.38652  xSp__:133.926  xpt__:43.9832  
+Parameter save in: ..\data\\Agro_Plant\\agro_beetroot\Work\2beetroot64_compfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_beetroot\2beetroot64_comp
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.656250      Total simulation  0.265625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.265625      Plotting results  0.281250
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 0.242168 34.8124 0.508109 0.203434 1.98394 2.59731  err:6.56279
+ 2 0.247959 34.4989 0.501394 0.204888 1.98588 2.60832  err:6.15781
+ 3 0.249532 34.533 0.499151 0.205623 1.98706 2.6025  err:6.15724
+ 4 0.247955 34.4738 0.497789 0.206045 1.9878 2.60348  err:6.15722
+ 5 0.247931 34.465 0.496987 0.206295 1.9882 2.60264  err:6.15722
+ 6 0.247628 34.4516 0.496522 0.20644 1.98844 2.60261  err:6.15722
+ 7 0.247544 34.4464 0.49625 0.206524 1.98858 2.60244  err:6.15722
+ 8 0.247465 34.4426 0.496091 0.206573 1.98866 2.60239  err:6.15722
+ 9 0.247429 34.4406 0.495999 0.206602 1.98871 2.60234  err:6.15722
+10 0.247404 34.4394 0.495945 0.206619 1.98873 2.60232  err:6.15722
+11 0.247391 34.4387 0.495914 0.206629 1.98875 2.60231  err:6.15722
+12 0.247383 34.4382 0.495895 0.206634 1.98876 2.6023  err:6.15722
+13 0.247379 34.438 0.495885 0.206638 1.98877 2.6023  err:6.15722
+14 0.247376 34.4379 0.495878 0.20664 1.98877 2.60229  err:6.15722
+15 0.247374 34.4378 0.495875 0.206641 1.98877 2.60229  err:6.15722
+
+Fitted Parameter values. Error: 6.15722 
+ xQo__:0.247374  xr___:34.4378  xpe__:0.495875  xpc__:0.206641  xBa1_:1.98877  xBi1_:2.60229 
+Fitted Parameter standard deviation 
+ xQo__:0.223487  xr___:9.52991  xpe__:0.394441  xpc__:0.11427  xBa1_:0.303674  xBi1_:0.470059  
+Parameter save in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_canephora12_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coffea\coffea_canephora12_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.375000      Total simulation  0.109375
+----------------------------------------------------------
+Parameter loading 0.015625      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.109375      Plotting results  0.203125
+Parameter saving: 0.000000      Plant Display     0.031250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):internode-size/position/CU 1
+ 1 1.52646 43.3077 0.648851 1.47625 1.20892  err:8.59754
+ 2 1.72725 50.8403 0.635982 1.07937 1.43641  err:7.00122
+ 3 1.60955 49.2572 0.551915 1.11411 1.55058  err:4.90431
+ 4 1.55017 48.5715 0.565118 1.11822 1.56412  err:4.88612
+ 5 1.57038 48.804 0.561767 1.11386 1.56328  err:4.88569
+ 6 1.5657 48.7518 0.562636 1.1148 1.56406  err:4.88568
+ 7 1.56682 48.7648 0.562419 1.11454 1.56398  err:4.88568
+ 8 1.56654 48.7617 0.56247 1.1146 1.56401  err:4.88568
+ 9 1.56661 48.7625 0.562458 1.11459 1.56401  err:4.88568
+10 1.56659 48.7623 0.562461 1.11459 1.56401  err:4.88568
+11 1.5666 48.7624 0.56246 1.11459 1.56401  err:4.88568
+12 1.56659 48.7623 0.56246 1.11459 1.56401  err:4.88568
+13 1.5666 48.7623 0.56246 1.11459 1.56401  err:4.88568
+14 1.5666 48.7623 0.56246 1.11459 1.56401  err:4.88568
+15 1.5666 48.7623 0.56246 1.11459 1.56401  err:4.88568
+
+Fitted Parameter values. Error: 4.88568 
+ xQo__:1.5666  xr___:48.7623  xpe__:0.56246  xBa1_:1.11459  xBi1_:1.56401 
+Fitted Parameter standard deviation 
+ xQo__:0.623946  xr___:6.9096  xpe__:0.165742  xBa1_:0.220704  xBi1_:0.171049  
+Parameter save in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_liberica9_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coffea\coffea_liberica9_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.296875      Total simulation  0.046875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.046875      Plotting results  0.203125
+Parameter saving: 0.000000      Plant Display     0.031250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):internode-size/position/CU 1
+ 1 0.0671844 86.6699 3.66697 1.62327 3.38906  err:8.88418
+ 2 0.0722233 86.4691 3.67021 1.62544 3.39338  err:7.28687
+ 3 0.072336 86.5131 3.66942 1.62533 3.3929  err:7.2866
+ 4 0.0722973 86.5042 3.66959 1.62539 3.39305  err:7.2866
+ 5 0.0723037 86.5058 3.66956 1.62538 3.39304  err:7.2866
+ 6 0.0723024 86.5055 3.66957 1.62539 3.39304  err:7.2866
+ 7 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+ 8 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+ 9 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+10 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+11 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+12 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+13 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+14 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+15 0.0723026 86.5055 3.66957 1.62539 3.39304  err:7.2866
+
+Fitted Parameter values. Error: 7.2866 
+ xQo__:0.0723026  xr___:86.5055  xpe__:3.66957  xBa1_:1.62539  xBi1_:3.39304 
+Fitted Parameter standard deviation 
+ xQo__:0.0253073  xr___:5.71886  xpe__:0.235686  xBa1_:0.109948  xBi1_:0.240848  
+Parameter save in: ..\data\\Agro_Plant\\agro_coffea\Work\coffea_racemosa29_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coffea\coffea_racemosa29_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.453125      Total simulation  0.140625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.140625      Plotting results  0.234375
+Parameter saving: 0.000000      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coton\1cotton27_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coton\1cotton27_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 2 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 3 57.2284 2720.98 0.177243 0.357681 0.0492996 2.29405 1.4561 1.16227  err:5.29111
+ 4 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 5 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 6 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 7 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 8 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+ 9 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+10 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+11 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+12 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+13 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+14 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+15 57.2284 2720.98 0.177243 0.357681 0.0492995 2.29405 1.4561 1.16227  err:5.29111
+
+Fitted Parameter values. Error: 5.29111 
+ xr___:57.2284  xSp__:2720.98  xpp__:0.177243  xpe__:0.357681  xpc__:0.0492995  xBa1_:2.29405  xBp1_:1.4561  xBi1_:1.16227 
+Fitted Parameter standard deviation 
+ xr___:4.07554  xSp__:352.6  xpp__:0.00791198  xpe__:0.0208227  xpc__:0.0139688  xBa1_:0.123216  xBp1_:0.11752  xBi1_:0.0885954  
+Parameter save in: ..\data\\Agro_Plant\\agro_coton\Work\1cotton27_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coton\1cotton27_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.671875      Total simulation  0.281250
+----------------------------------------------------------
+Parameter loading 0.015625      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.281250      Plotting results  0.234375
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 63.4739 3364.46 0.154066 0.366891 0.0603984 2.20478 1.68118 1.02765  err:23.9981
+ 2 63.4746 3364.52 0.154065 0.3669 0.0604002 2.20475 1.68119 1.02763  err:23.9981
+ 3 63.4747 3364.52 0.154065 0.366903 0.0604007 2.20475 1.68119 1.02763  err:23.9981
+ 4 63.4747 3364.52 0.154065 0.366903 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+ 5 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+ 6 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+ 7 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+ 8 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+ 9 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+10 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+11 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+12 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+13 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+14 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+15 63.4747 3364.52 0.154065 0.366904 0.0604009 2.20475 1.68119 1.02762  err:23.9981
+
+Fitted Parameter values. Error: 23.9981 
+ xr___:63.4747  xSp__:3364.52  xpp__:0.154065  xpe__:0.366904  xpc__:0.0604009  xBa1_:2.20475  xBp1_:1.68119  xBi1_:1.02762 
+Fitted Parameter standard deviation 
+ xr___:2.91159  xSp__:296.938  xpp__:0.00612891  xpe__:0.0468979  xpc__:0.0127903  xBa1_:0.0691618  xBp1_:0.0683617  xBi1_:0.0712931  
+Parameter save in: ..\data\\Agro_Plant\\agro_coton\Work\2cotton27_comp5_phyt5fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coton\2cotton27_comp5_phyt5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.265625      Total simulation  0.343750
+----------------------------------------------------------
+Parameter loading 0.031250      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.343750      Plotting results  0.781250
+Parameter saving: 0.000000      Plant Display     0.093750
+MATLAB 8.0
+Parameter file (24 lines) ..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 58.2839 2932.17 0.170548 0.35014 0.0563916 2.3388 1.57301 1.1611  err:5.57172
+ 2 58.2835 2932.13 0.170549 0.350142 0.0563926 2.3388 1.573 1.16109  err:5.57172
+ 3 58.2835 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 4 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 5 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 6 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 7 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 8 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+ 9 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+10 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+11 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+12 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+13 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+14 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+15 58.2834 2932.13 0.170549 0.350142 0.0563927 2.3388 1.573 1.16109  err:5.57172
+
+Fitted Parameter values. Error: 5.57172 
+ xr___:58.2834  xSp__:2932.13  xpp__:0.170549  xpe__:0.350142  xpc__:0.0563927  xBa1_:2.3388  xBp1_:1.573  xBi1_:1.16109 
+Fitted Parameter standard deviation 
+ xr___:3.86205  xSp__:362.004  xpp__:0.00904382  xpe__:0.0210815  xpc__:0.0134457  xBa1_:0.108505  xBp1_:0.114218  xBi1_:0.0841487  
+Parameter save in: ..\data\\Agro_Plant\\agro_coton\Work\3cotton27_comp5_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_coton\3cotton27_comp5_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.906250      Total simulation  0.281250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.281250      Plotting results  0.484375
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):Internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3.msk loaded.
+ 1 22.6447 0.608751 0.638436 163.429 1.64133 1.94493 0.684439 6.44804  err:46.3639
+ 2 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44804  err:46.3639
+ 3 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 4 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 5 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 6 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 7 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 8 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 9 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+10 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+11 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+12 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+13 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+14 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+15 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+
+Fitted Parameter values. Error: 46.3639 
+ xr___:22.6447  xpp__:0.608751  xpe__:0.638436  xpf__:163.43  xBa1_:1.64133  xBp1_:1.94493  xBi1_:0.684439  xBf1_:6.44805 
+Fitted Parameter standard deviation 
+ xr___:0.862316  xpp__:0.0357018  xpe__:0.0683167  xpf__:16.695  xBa1_:0.101396  xBp1_:0.12941  xBi1_:0.0625795  xBf1_:0.282084  
+Parameter save in: ..\data\\Agro_Plant\\agro_cucumber\Work\1cucumb31_comp3_phyt3fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_cucumber\1cucumb31_comp3_phyt3
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.281250      Total simulation  0.343750
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.343750      Plotting results  0.765625
+Parameter saving: 0.000000      Plant Display     0.140625
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1.msk loaded.
+ 1 18.0411 0.622801 0.763356 130.026 1.53191 1.39669 0.576589 5.79759  err:13.9722
+ 2 18.2689 0.618419 0.746312 130.992 1.5714 1.47225 0.593871 5.91335  err:13.945
+ 3 18.0411 0.622801 0.763361 130.025 1.53191 1.39668 0.576584 5.79756  err:13.9722
+ 4 18.2689 0.618419 0.74631 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+ 5 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+ 6 18.2689 0.618419 0.746309 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+ 7 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+ 8 18.2689 0.618419 0.746309 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+ 9 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+10 18.2689 0.618419 0.746309 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+11 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+12 18.2689 0.618419 0.746309 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+13 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+14 18.2689 0.618419 0.746309 130.992 1.5714 1.47225 0.593873 5.91336  err:13.945
+15 18.0411 0.622801 0.763362 130.025 1.5319 1.39668 0.576583 5.79755  err:13.9722
+
+Fitted Parameter values. Error: 13.9722 
+ xr___:18.0411  xpp__:0.622801  xpe__:0.763362  xpf__:130.025  xBa1_:1.5319  xBp1_:1.39668  xBi1_:0.576583  xBf1_:5.79755 
+Fitted Parameter standard deviation 
+ xr___:0.716971  xpp__:0.0323549  xpe__:0.0886361  xpf__:11.7776  xBa1_:0.134444  xBp1_:0.110531  xBi1_:0.0762115  xBf1_:0.3621  
+Parameter save in: ..\data\\Agro_Plant\\agro_cucumber\Work\2cucumb31_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_cucumber\2cucumb31_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.890625      Total simulation  0.312500
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.312500      Plotting results  0.359375
+Parameter saving: 0.015625      Plant Display     0.140625
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt.msk loaded.
+ 1 22.6447 0.608751 0.638436 163.429 1.64133 1.94493 0.684439 6.44804  err:46.3639
+ 2 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44804  err:46.3639
+ 3 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 4 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 5 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 6 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 7 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 8 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+ 9 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+10 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+11 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+12 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+13 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+14 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+15 22.6447 0.608751 0.638436 163.43 1.64133 1.94493 0.684439 6.44805  err:46.3639
+
+Fitted Parameter values. Error: 46.3639 
+ xr___:22.6447  xpp__:0.608751  xpe__:0.638436  xpf__:163.43  xBa1_:1.64133  xBp1_:1.94493  xBi1_:0.684439  xBf1_:6.44805 
+Fitted Parameter standard deviation 
+ xr___:0.862316  xpp__:0.0357018  xpe__:0.0683167  xpf__:16.695  xBa1_:0.101396  xBp1_:0.12941  xBi1_:0.0625795  xBf1_:0.282084  
+Parameter save in: ..\data\\Agro_Plant\\agro_cucumber2\Work\1cucumb31_comp3_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_cucumber2\1cucumb31_comp3_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.359375      Total simulation  0.343750
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.343750      Plotting results  0.796875
+Parameter saving: 0.000000      Plant Display     0.187500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt.msk loaded.
+ 1 22.5578 0.639995 0.606407 228.389 1.66288 1.7216 0.757594 7.1907  err:63.2016
+ 2 16.7476 0.578646 0.907792 25.1989 1.39111 1.33271 0.392419 4.78947  err:838.05
+ 3 19.2211 0.500521 0.758089 46.124 1.41078 1.57446 0.52741 5.16086  err:136.213
+ 4 19.3624 0.544384 0.754868 76.1027 1.43565 1.62916 0.555515 5.3936  err:28.8698
+ 5 18.7442 0.581948 0.7687 102.49 1.424 1.52743 0.550941 5.49879  err:15.1354
+ 6 18.5946 0.597981 0.761675 116.988 1.46226 1.45989 0.565823 5.64806  err:14.0073
+ 7 18.2032 0.617698 0.750809 125.839 1.50432 1.39085 0.583773 5.75675  err:13.9872
+ 8 18.296 0.621358 0.755654 129.841 1.54245 1.46588 0.588114 5.85606  err:13.9417
+ 9 18.0662 0.622951 0.758556 130.071 1.53397 1.39721 0.58153 5.80995  err:13.9697
+10 18.266 0.618404 0.74789 130.845 1.56879 1.47131 0.592438 5.90628  err:13.943
+11 18.0448 0.622836 0.762505 130.095 1.53295 1.39701 0.577493 5.80156  err:13.9713
+12 18.2684 0.618423 0.746573 131 1.57121 1.4722 0.593663 5.91309  err:13.9448
+13 18.0422 0.622817 0.763121 130.061 1.53229 1.39682 0.576831 5.79914  err:13.9719
+14 18.2691 0.618423 0.746292 131.015 1.57156 1.47232 0.59391 5.91406  err:13.9451
+15 18.0417 0.622813 0.763227 130.051 1.53215 1.39678 0.576716 5.79861  err:13.972
+
+Fitted Parameter values. Error: 13.972 
+ xr___:18.0417  xpp__:0.622813  xpe__:0.763227  xpf__:130.051  xBa1_:1.53215  xBp1_:1.39678  xBi1_:0.576716  xBf1_:5.79861 
+Fitted Parameter standard deviation 
+ xr___:0.71716  xpp__:0.0323575  xpe__:0.0886006  xpf__:11.7918  xBa1_:0.134468  xBp1_:0.110518  xBi1_:0.0762029  xBf1_:0.362095  
+Parameter save in: ..\data\\Agro_Plant\\agro_cucumber2\Work\2cucumb31_phytfitted.fpar performed
+
+..\data\\Agro_Plant\\agro_cucumber2\2cucumb31_phyt
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.796875      Total simulation  0.296875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.015625
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.281250      Plotting results  0.296875
+Parameter saving: 0.000000      Plant Display     0.156250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):internode-size/position/CU 1
+ 1 0.661796 259.853 0.417021 1 1  err:87.5588
+ 2 0.378725 258.532 0.679646 1.3861 1.83153  err:30.5914
+ 3 0.246193 236.707 0.912957 1.89654 2.9248  err:27.1099
+ 4 0.260697 242.752 0.9968 1.83872 3.31253  err:22.7216
+ 5 0.261839 241.635 1.01932 1.83355 3.382  err:22.4942
+ 6 0.262894 242.146 1.02298 1.83013 3.39181  err:22.4938
+ 7 0.26251 242.066 1.02362 1.83032 3.39401  err:22.4938
+ 8 0.262573 242.09 1.02374 1.83016 3.39428  err:22.4938
+ 9 0.262555 242.086 1.02376 1.83018 3.39435  err:22.4938
+10 0.262558 242.087 1.02376 1.83017 3.39436  err:22.4938
+11 0.262557 242.087 1.02376 1.83017 3.39436  err:22.4938
+12 0.262557 242.087 1.02376 1.83017 3.39436  err:22.4938
+13 0.262557 242.087 1.02376 1.83017 3.39436  err:22.4938
+14 0.262557 242.087 1.02376 1.83017 3.39436  err:22.4938
+15 0.262557 242.087 1.02376 1.83017 3.39436  err:22.4938
+
+Fitted Parameter values. Error: 22.4938 
+ xQo__:0.262557  xr___:242.087  xpe__:1.02376  xBa1_:1.83017  xBi1_:3.39436 
+Fitted Parameter standard deviation 
+ xQo__:0.0559623  xr___:15.3533  xpe__:0.199868  xBa1_:0.241362  xBi1_:0.593927  
+Parameter save in: ..\data\\Agro_Plant\\agro_houblon\Work\houblon25_phyt2fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_houblon\houblon25_phyt2
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.531250      Total simulation  0.156250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.156250      Plotting results  0.234375
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1.targ
+Target Organ(1):Blade-size/position 1
+ 1 130.508 1.25482 2.42664  err:2.8044
+ 2 130.508 1.25478 2.42656  err:2.8044
+ 3 130.508 1.25479 2.42658  err:2.8044
+ 4 130.508 1.25479 2.42657  err:2.8044
+ 5 130.508 1.25479 2.42658  err:2.8044
+ 6 130.508 1.25479 2.42657  err:2.8044
+ 7 130.508 1.25479 2.42657  err:2.8044
+ 8 130.508 1.25479 2.42657  err:2.8044
+ 9 130.508 1.25479 2.42657  err:2.8044
+10 130.508 1.25479 2.42657  err:2.8044
+11 130.508 1.25479 2.42657  err:2.8044
+12 130.508 1.25479 2.42657  err:2.8044
+13 130.508 1.25479 2.42657  err:2.8044
+14 130.508 1.25479 2.42657  err:2.8044
+15 130.508 1.25479 2.42657  err:2.8044
+
+Fitted Parameter values. Error: 2.8044 
+ xr___:130.508  xBa1_:1.25479  xBa2_:2.42657 
+Fitted Parameter standard deviation 
+ xr___:1.81749  xBa1_:0.206167  xBa2_:0.460191  
+Parameter save in: ..\data\\Agro_Plant\\agro_lettuce\Work\lettuce36_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_lettuce\lettuce36_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.421875      Total simulation  0.140625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.140625      Plotting results  0.218750
+Parameter saving: 0.000000      Plant Display     0.046875
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):Petiol-size/position/CU 1
+Target Organ(1):pith-size/position/CU 1
+Target Organ(1):FruitF-size/position/CU 1
+Target Organ(1):FruitM-size/position/CU 1
+Mask file ..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1.msk loaded.
+ 1 28.0153 2234.95 0.659611 1.09411 73.9702 0.780062 0.689923 3.92332 2.5951  err:2.429
+ 2 28.9169 2496.92 0.638306 1.30156 84.0106 0.932462 0.89026 4.28191 2.77141  err:2.62749
+ 3 29.218 2539.33 0.679495 1.25189 80.3345 0.867949 0.753926 4.14041 2.65837  err:1.88151
+ 4 28.9292 2505.72 0.693014 1.23041 80.6772 0.855895 0.714576 4.10849 2.66798  err:1.87968
+ 5 28.9799 2512.41 0.690577 1.23296 80.8796 0.856992 0.71949 4.11288 2.67166  err:1.87963
+ 6 28.9653 2510.54 0.69111 1.23172 80.8516 0.856375 0.717908 4.11092 2.67115  err:1.87963
+ 7 28.9691 2511.02 0.690945 1.23197 80.8645 0.856499 0.718323 4.11134 2.67139  err:1.87963
+ 8 28.9681 2510.89 0.690984 1.23189 80.8619 0.856461 0.718214 4.11121 2.67134  err:1.87963
+ 9 28.9684 2510.93 0.690973 1.23191 80.8627 0.85647 0.718243 4.11124 2.67136  err:1.87963
+10 28.9683 2510.92 0.690976 1.23191 80.8625 0.856467 0.718235 4.11123 2.67135  err:1.87963
+11 28.9683 2510.92 0.690975 1.23191 80.8626 0.856468 0.718237 4.11123 2.67135  err:1.87963
+12 28.9683 2510.92 0.690975 1.23191 80.8625 0.856468 0.718236 4.11123 2.67135  err:1.87963
+13 28.9683 2510.92 0.690975 1.23191 80.8625 0.856468 0.718237 4.11123 2.67135  err:1.87963
+14 28.9683 2510.92 0.690975 1.23191 80.8625 0.856468 0.718237 4.11123 2.67135  err:1.87963
+15 28.9683 2510.92 0.690975 1.23191 80.8625 0.856468 0.718237 4.11123 2.67135  err:1.87963
+
+Fitted Parameter values. Error: 1.87963 
+ xr___:28.9683  xSp__:2510.92  xpp__:0.690975  xpe__:1.23191  xpf__:80.8625  xBa1_:0.856468  xBp1_:0.718237  xBi1_:4.11123  xBf1_:2.67135 
+Fitted Parameter standard deviation 
+ xr___:1.43539  xSp__:182.762  xpp__:0.0904186  xpe__:0.162825  xpf__:8.10946  xBa1_:0.116133  xBp1_:0.196161  xBi1_:0.194484  xBf1_:0.174508  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\1maize30_comp1_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\1maize30_comp1_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.234375      Total simulation  0.437500
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.046875
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.390625      Plotting results  0.593750
+Parameter saving: 0.000000      Plant Display     0.187500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Target Organ(1):FruitM-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5.msk loaded.
+ 1 33.3245 3008.3 0.601559 1.66543 185.362 1.38379 2.47818 3.64134 3.73042  err:23.3656
+ 2 33.8375 3314.94 0.604459 1.66311 259.335 1.38855 2.48404 3.62845 4.17017  err:21.6934
+ 3 33.7378 3303.02 0.605849 1.65825 284.303 1.39244 2.46873 3.61741 4.19197  err:21.4472
+ 4 33.6144 3266.21 0.599473 1.64106 281.19 1.35297 2.45695 3.6089 4.17778  err:21.4787
+ 5 33.7197 3299.97 0.604945 1.65883 283.344 1.39032 2.46911 3.62051 4.18303  err:21.4454
+ 6 33.6291 3275.86 0.601585 1.64783 282.189 1.36726 2.461 3.61335 4.18039  err:21.4548
+ 7 33.7344 3303.18 0.605265 1.65961 283.986 1.3912 2.47023 3.62121 4.18517  err:21.4454
+ 8 33.6111 3265.52 0.599428 1.6411 280.544 1.35266 2.45656 3.60901 4.17532  err:21.4792
+ 9 33.7195 3299.93 0.604931 1.65882 283.341 1.39028 2.46916 3.62052 4.18304  err:21.4454
+10 33.6328 3277.09 0.601789 1.64846 282.332 1.3686 2.46144 3.61376 4.18082  err:21.4536
+11 33.7358 3303.46 0.605294 1.65967 284.048 1.3913 2.47031 3.62126 4.18538  err:21.4454
+12 33.6111 3265.51 0.599429 1.6411 280.55 1.35268 2.45654 3.609 4.17535  err:21.4792
+13 33.7195 3299.93 0.604932 1.65882 283.344 1.39028 2.46917 3.62052 4.18305  err:21.4454
+14 33.6326 3277.02 0.601779 1.64843 282.324 1.36853 2.46141 3.61374 4.1808  err:21.4536
+15 33.7357 3303.45 0.605293 1.65967 284.045 1.39129 2.47031 3.62126 4.18537  err:21.4454
+
+Fitted Parameter values. Error: 21.4454 
+ xr___:33.7357  xSp__:3303.45  xpp__:0.605293  xpe__:1.65967  xpf__:284.045  xBa1_:1.39129  xBp1_:2.47031  xBi1_:3.62126  xBf1_:4.18537 
+Fitted Parameter standard deviation 
+ xr___:0.693106  xSp__:141.649  xpp__:0.0191061  xpe__:0.0676075  xpf__:98.6415  xBa1_:0.0847028  xBp1_:0.112175  xBi1_:0.103504  xBf1_:0.377576  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\2maize30_comp5_phyt5fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\2maize30_comp5_phyt5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.796875      Total simulation  0.390625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.390625      Plotting results  1.156250
+Parameter saving: 0.015625      Plant Display     0.203125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Target Organ(1):FruitM-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1.msk loaded.
+ 1 34.8049 3210.56 0.529604 1.61961 158.367 3.66408  err:5.88178
+ 2 35.0387 3500.13 0.530193 1.63196 214.609 4.06596  err:5.19117
+ 3 35.0161 3499.06 0.533102 1.62659 222.674 4.04983  err:5.16068
+ 4 35.0352 3506.71 0.532945 1.62695 217.382 4.02142  err:5.16055
+ 5 35.0369 3506.83 0.532888 1.62679 217.85 4.0232  err:5.16055
+ 6 35.0368 3506.88 0.532893 1.62681 217.707 4.02248  err:5.16055
+ 7 35.0368 3506.88 0.53289 1.6268 217.728 4.02258  err:5.16055
+ 8 35.0368 3506.88 0.532891 1.6268 217.723 4.02256  err:5.16055
+ 9 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+10 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+11 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+12 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+13 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+14 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+15 35.0368 3506.88 0.532891 1.6268 217.724 4.02256  err:5.16055
+
+Fitted Parameter values. Error: 5.16055 
+ xr___:35.0368  xSp__:3506.88  xpp__:0.532891  xpe__:1.6268  xpf__:217.724  xBf1_:4.02256 
+Fitted Parameter standard deviation 
+ xr___:0.973188  xSp__:201.089  xpp__:0.0192829  xpe__:0.0648403  xpf__:115.956  xBf1_:0.599636  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\3maize30_comp5_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\3maize30_comp5_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.187500      Total simulation  0.281250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.031250
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.250000      Plotting results  0.640625
+Parameter saving: 0.000000      Plant Display     0.218750
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Target Organ(1):FruitM-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_maize\4maize30_phyt1.msk loaded.
+ 1 34.8776 3210.87 0.5231 1.61044 161.882 3.69145  err:5.71891
+ 2 35.1599 3510.36 0.523358 1.62198 219.438 4.08956  err:5.08187
+ 3 35.1368 3509.45 0.526598 1.61596 227.292 4.06879  err:5.05017
+ 4 35.1616 3519.16 0.526406 1.61636 221.026 4.03569  err:5.05001
+ 5 35.1639 3519.31 0.526341 1.61613 221.605 4.03783  err:5.05001
+ 6 35.1639 3519.4 0.526347 1.61615 221.41 4.03685  err:5.05001
+ 7 35.164 3519.4 0.526344 1.61614 221.439 4.03698  err:5.05001
+ 8 35.164 3519.4 0.526344 1.61614 221.432 4.03695  err:5.05001
+ 9 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+10 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+11 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+12 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+13 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+14 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+15 35.164 3519.4 0.526344 1.61614 221.433 4.03696  err:5.05001
+
+Fitted Parameter values. Error: 5.05001 
+ xr___:35.164  xSp__:3519.4  xpp__:0.526344  xpe__:1.61614  xpf__:221.433  xBf1_:4.03696 
+Fitted Parameter standard deviation 
+ xr___:1.10575  xSp__:230.24  xpp__:0.0214973  xpe__:0.0737549  xpf__:134.252  xBf1_:0.687256  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\4maize30_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\4maize30_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.859375      Total simulation  0.250000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.250000      Plotting results  0.343750
+Parameter saving: 0.000000      Plant Display     0.203125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\5maize30_comp5.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\5maize30_comp5.targ
+Mask file ..\data\\Agro_Plant\\agro_maize\5maize30_comp5.msk loaded.
+ 1 34.0295 3225.61 0.60446 1.70741 111.479 3.24214  err:0.109465
+ 2 33.6191 3387.44 0.607347 1.73213 126.84 3.42972  err:0.0548583
+ 3 33.6401 3387.65 0.607187 1.7305 127.999 3.42692  err:0.0547342
+ 4 33.6395 3387.57 0.6072 1.73054 128.029 3.42716  err:0.0547342
+ 5 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+ 6 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+ 7 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+ 8 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+ 9 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+10 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+11 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+12 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+13 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+14 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+15 33.6395 3387.57 0.6072 1.73054 128.028 3.42715  err:0.0547342
+
+Fitted Parameter values. Error: 0.0547342 
+ xr___:33.6395  xSp__:3387.57  xpp__:0.6072  xpe__:1.73054  xpf__:128.028  xBf1_:3.42715 
+Fitted Parameter standard deviation 
+ xr___:1.1307  xSp__:241.095  xpp__:0.0232  xpe__:0.0665381  xpf__:60.9581  xBf1_:0.564919  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\5maize30_comp5fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\5maize30_comp5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.750000      Total simulation  0.218750
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.218750      Plotting results  0.343750
+Parameter saving: 0.015625      Plant Display     0.156250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Target Organ(1):FruitM-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1.msk loaded.
+ 1 36.6141 3662.47 0.548946 1.61084 125.833 3.36722  err:0.783058
+ 2 36.2491 3858.53 0.554047 1.63603 158.76 3.7267  err:0.577681
+ 3 36.203 3846.87 0.555557 1.63549 170.163 3.73201  err:0.527125
+ 4 36.2271 3848.53 0.55489 1.63452 175.546 3.76806  err:0.526954
+ 5 36.2267 3848.15 0.554909 1.63443 176.073 3.77123  err:0.52695
+ 6 36.227 3848.18 0.554907 1.63442 176.147 3.77174  err:0.52695
+ 7 36.227 3848.18 0.554908 1.63442 176.152 3.77178  err:0.52695
+ 8 36.227 3848.18 0.554908 1.63442 176.153 3.77178  err:0.52695
+ 9 36.227 3848.18 0.554908 1.63442 176.153 3.77178  err:0.52695
+10 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+11 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+12 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+13 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+14 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+15 36.227 3848.18 0.554908 1.63442 176.153 3.77179  err:0.52695
+
+Fitted Parameter values. Error: 0.52695 
+ xr___:36.227  xSp__:3848.18  xpp__:0.554908  xpe__:1.63442  xpf__:176.153  xBf1_:3.77179 
+Fitted Parameter standard deviation 
+ xr___:0.777242  xSp__:147.363  xpp__:0.017597  xpe__:0.0551819  xpf__:61.9952  xBf1_:0.450028  
+Parameter save in: ..\data\\Agro_Plant\\agro_maize\Work\6maize30_999_comp5_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_maize\6maize30_999_comp5_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.140625      Total simulation  0.218750
+----------------------------------------------------------
+Parameter loading 0.015625      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.218750      Plotting results  0.640625
+Parameter saving: 0.000000      Plant Display     0.250000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position/CU 1
+Mask file ..\data\\Agro_Plant\\agro_rice\1rice18_phyt1.msk loaded.
+ 1 59 104 1.22489 0.580004 1.51453 6.50242  err:2.17777
+ 2 68.8929 137.323 1.26282 0.605782 1.5717 5.79376  err:1.81781
+ 3 68.2197 140.437 1.26448 0.603961 1.57411 5.89833  err:1.71164
+ 4 66.0762 134.204 1.25855 0.59802 1.56314 6.03396  err:1.70936
+ 5 66.1753 134.666 1.25784 0.59841 1.56203 6.03261  err:1.70876
+ 6 66.0507 134.296 1.25771 0.598076 1.56171 6.04051  err:1.70873
+ 7 66.0577 134.321 1.25766 0.598096 1.56163 6.04021  err:1.70873
+ 8 66.0544 134.311 1.25766 0.598087 1.56162 6.04041  err:1.70873
+ 9 66.0547 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+10 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+11 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+12 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+13 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+14 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+15 66.0546 134.312 1.25765 0.598088 1.56162 6.0404  err:1.70873
+
+Fitted Parameter values. Error: 1.70873 
+ xr___:66.0546  xSp__:134.312  xpp__:1.25765  xpe__:0.598088  xpf__:1.56162  xBa1_:6.0404 
+Fitted Parameter standard deviation 
+ xr___:7.6622  xSp__:22.2449  xpp__:0.0868209  xpe__:0.0409461  xpf__:0.123146  xBa1_:0.545895  
+Parameter save in: ..\data\\Agro_Plant\\agro_rice\Work\1rice18_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_rice\1rice18_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.687500      Total simulation  0.125000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.125000      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\2rice29_comp8.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_rice\2rice29_comp8.targ
+Mask file ..\data\\Agro_Plant\\agro_rice\2rice29_comp8.msk loaded.
+ 1 50.6933 63.0784 1.35189 0.446476 2.04638  err:1.75075
+ 2 52.6618 71.1968 1.39111 0.447779 1.76846  err:1.62144
+ 3 52.2198 70.9301 1.39534 0.452175 1.79512  err:1.62
+ 4 52.2789 71.0509 1.3946 0.451928 1.79427  err:1.61999
+ 5 52.2724 71.04 1.39473 0.451982 1.79459  err:1.61999
+ 6 52.2732 71.0417 1.39471 0.451978 1.79457  err:1.61999
+ 7 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+ 8 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+ 9 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+10 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+11 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+12 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+13 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+14 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+15 52.2731 71.0416 1.39472 0.451978 1.79457  err:1.61999
+
+Fitted Parameter values. Error: 1.61999 
+ xr___:52.2731  xSp__:71.0416  xpp__:1.39472  xpe__:0.451978  xpf__:1.79457 
+Fitted Parameter standard deviation 
+ xr___:6.87952  xSp__:15.1538  xpp__:0.189505  xpe__:0.064149  xpf__:0.851685  
+Parameter save in: ..\data\\Agro_Plant\\agro_rice\Work\2rice29_comp8fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_rice\2rice29_comp8
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.671875      Total simulation  0.187500
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.187500      Plotting results  0.328125
+Parameter saving: 0.015625      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position/CU 1
+Mask file ..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1.msk loaded.
+ 1 65.4013 98.8654 0.723255 0.528109 1.564  err:6.97442
+ 2 65.97 114.383 0.76103 0.53457 1.59969  err:5.77821
+ 3 65.8227 115.116 0.759667 0.535841 1.59802  err:5.76759
+ 4 65.8255 115.121 0.759644 0.535839 1.59797  err:5.76758
+ 5 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+ 6 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+ 7 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+ 8 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+ 9 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+10 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+11 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+12 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+13 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+14 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+15 65.8254 115.121 0.759645 0.535841 1.59797  err:5.76758
+
+Fitted Parameter values. Error: 5.76758 
+ xr___:65.8254  xSp__:115.121  xpp__:0.759645  xpe__:0.535841  xpf__:1.59797 
+Fitted Parameter standard deviation 
+ xr___:3.04627  xSp__:7.1516  xpp__:0.0521538  xpe__:0.03631  xpf__:0.152925  
+Parameter save in: ..\data\\Agro_Plant\\agro_rice\Work\3rice29_comp8_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_rice\3rice29_comp8_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.828125      Total simulation  0.140625
+----------------------------------------------------------
+Parameter loading 0.031250      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.140625      Plotting results  0.500000
+Parameter saving: 0.000000      Plant Display     0.140625
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):Petiol-size/position/CU 1
+Target Organ(1):pith-size/position/CU 1
+Target Organ(1):FruitF-size/position/CU 1
+Mask file ..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5.msk loaded.
+ 1 147.504 2638.48 0.363739 1.2506 516.319 9.54078 4.57002 7.29176 7.45433  err:44.0148
+ 2 148.815 2699.22 0.365388 1.25306 489.506 9.53125 4.58829 7.2909 7.35799  err:43.9507
+ 3 148.346 2689.29 0.364709 1.24945 491.19 9.55119 4.58904 7.28751 7.36762  err:43.9498
+ 4 148.567 2693.49 0.364956 1.25121 492.314 9.53944 4.58743 7.28945 7.36969  err:43.9499
+ 5 148.525 2692.63 0.364905 1.25095 492.384 9.54115 4.58744 7.28909 7.37019  err:43.9499
+ 6 148.551 2693.1 0.364933 1.25117 492.606 9.53958 4.58717 7.28929 7.37074  err:43.9499
+ 7 148.527 2692.68 0.364909 1.25099 492.376 9.54095 4.58739 7.28914 7.37009  err:43.9499
+ 8 148.548 2693.04 0.36493 1.25115 492.584 9.53975 4.58719 7.28928 7.37069  err:43.9499
+ 9 148.53 2692.73 0.364911 1.25101 492.402 9.5408 4.58736 7.28916 7.37016  err:43.9499
+10 148.546 2693 0.364927 1.25113 492.561 9.53988 4.58721 7.28926 7.37062  err:43.9499
+11 148.532 2692.76 0.364913 1.25103 492.422 9.54068 4.58734 7.28917 7.37022  err:43.9499
+12 148.544 2692.97 0.364925 1.25112 492.543 9.53999 4.58723 7.28925 7.37057  err:43.9499
+13 148.533 2692.79 0.364915 1.25104 492.437 9.54059 4.58733 7.28918 7.37026  err:43.9499
+14 148.542 2692.95 0.364924 1.25111 492.53 9.54006 4.58724 7.28924 7.37053  err:43.9499
+15 148.535 2692.81 0.364916 1.25105 492.449 9.54052 4.58732 7.28919 7.3703  err:43.9499
+
+Fitted Parameter values. Error: 43.9499 
+ xr___:148.535  xSp__:2692.81  xpp__:0.364916  xpe__:1.25105  xpf__:492.449  xBa1_:9.54052  xBp1_:4.58732  xBi1_:7.28919  xBf1_:7.3703 
+Fitted Parameter standard deviation 
+ xr___:7.59695  xSp__:169.479  xpp__:0.0136012  xpe__:0.0847158  xpf__:141.545  xBa1_:0.267449  xBp1_:0.138251  xBi1_:0.386048  xBf1_:0.599242  
+Parameter save in: ..\data\\Agro_Plant\\agro_sunflower\Work\1_sunflow120_comp5_phyt5fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_sunflower\1_sunflow120_comp5_phyt5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    3.890625      Total simulation  2.781250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 2.781250      Plotting results  0.859375
+Parameter saving: 0.000000      Plant Display     0.187500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.targ
+Target Organ(1):Blade-size/position/CU 1
+Target Organ(1):Petiol-size/position/CU 1
+Target Organ(1):pith-size/position/CU 1
+Mask file ..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3.msk loaded.
+ 1 128.134 2045.05 0.404652 1.09421 9.48658 4.48968 5.60598  err:13.1142
+ 2 128.554 2053.44 0.405052 1.0985 9.45306 4.48157 5.6074  err:13.1136
+ 3 128.16 2049.82 0.404705 1.09445 9.48495 4.48935 5.6055  err:13.1137
+ 4 128.55 2053.34 0.40507 1.09863 9.45312 4.48153 5.6078  err:13.1136
+ 5 128.159 2049.81 0.404702 1.09442 9.48499 4.48934 5.60544  err:13.1137
+ 6 128.55 2053.34 0.40507 1.09864 9.45313 4.48153 5.60781  err:13.1136
+ 7 128.159 2049.81 0.404702 1.09442 9.48499 4.48933 5.60544  err:13.1137
+ 8 128.55 2053.34 0.40507 1.09864 9.45313 4.48153 5.60781  err:13.1136
+ 9 128.159 2049.81 0.404702 1.09442 9.48499 4.48933 5.60544  err:13.1137
+10 128.55 2053.34 0.40507 1.09864 9.45313 4.48153 5.60781  err:13.1136
+11 128.159 2049.81 0.404702 1.09442 9.48499 4.48933 5.60544  err:13.1137
+12 128.55 2053.34 0.40507 1.09864 9.45313 4.48153 5.60781  err:13.1136
+13 128.159 2049.81 0.404702 1.09442 9.48499 4.48933 5.60544  err:13.1137
+14 128.55 2053.34 0.40507 1.09864 9.45313 4.48153 5.60781  err:13.1136
+15 128.159 2049.81 0.404702 1.09442 9.48499 4.48933 5.60544  err:13.1137
+
+Fitted Parameter values. Error: 13.1137 
+ xr___:128.159  xSp__:2049.81  xpp__:0.404702  xpe__:1.09442  xBa1_:9.48499  xBp1_:4.48933  xBi1_:5.60544 
+Fitted Parameter standard deviation 
+ xr___:7.63849  xSp__:233.525  xpp__:0.0190216  xpe__:0.073102  xBa1_:0.252159  xBp1_:0.153003  xBi1_:0.190036  
+Parameter save in: ..\data\\Agro_Plant\\agro_sunflower\Work\2_sunflow63__phyt3fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_sunflower\2_sunflow63__phyt3
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.375000      Total simulation  0.781250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.781250      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.109375
+MATLAB 8.0
+Parameter file (24 lines) ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.targ
+
+Plant age differs in Parameter file :30 and Target file: 28. Keeping: 28
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1.msk loaded.
+ 1 13.3479 2451.65 1.11785 0.657784 26.0921 3.9 4.1 4.5  err:14.5765
+ 2 15.2959 2785.02 0.916029 0.71342 31.9678 2.72903 2.65962 2.97889  err:19.6812
+ 3 14.3299 2550.21 1.0923 0.742885 32.8742 3.12376 3.05908 3.44132  err:12.9672
+ 4 14.7003 2629.88 1.13161 0.81718 35.3561 2.89665 2.91019 3.28354  err:12.8386
+ 5 14.6259 2637.63 1.13335 0.814583 34.506 2.97238 3.01572 3.38162  err:12.787
+ 6 14.9371 2675.84 1.09829 0.797209 35.1774 2.80707 2.8399 3.19908  err:12.9055
+ 7 14.4689 2614.81 1.13098 0.819302 34.0144 3.04655 3.07338 3.44495  err:12.7997
+ 8 14.5832 2624.87 1.13888 0.819166 34.7735 2.97105 2.99553 3.37794  err:12.8019
+ 9 14.768 2658.57 1.13293 0.807873 34.7848 2.90408 2.95645 3.31301  err:12.7859
+10 14.6482 2641.92 1.13259 0.814013 34.5536 2.964 3.01176 3.37647  err:12.7869
+11 14.9237 2673.73 1.09983 0.798021 35.167 2.81332 2.84616 3.20614  err:12.8942
+12 14.4797 2616.13 1.13115 0.818973 34.0594 3.04099 3.06915 3.44016  err:12.797
+13 14.5717 2623.02 1.13878 0.81879 34.7298 2.97605 3.00013 3.38254  err:12.7987
+14 14.9405 2676.71 1.09717 0.796865 35.1791 2.80546 2.83943 3.19793  err:12.9194
+15 14.4665 2614.3 1.13078 0.819292 34.0033 3.04766 3.07416 3.44568  err:12.8001
+
+Fitted Parameter values. Error: 12.8001 
+ xr___:14.4665  xSp__:2614.3  xpp__:1.13078  xpe__:0.819292  xpf__:34.0033  xBa1_:3.04766  xBp1_:3.07416  xBi1_:3.44568 
+Fitted Parameter standard deviation 
+ xr___:2.18813  xSp__:457.402  xpp__:0.103454  xpe__:0.0986034  xpf__:9.06591  xBa1_:0.894164  xBp1_:0.932531  xBi1_:0.988139  
+Parameter save in: ..\data\\Agro_Plant\\agro_tomate\Work\0tomat28_nz_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_tomate\0tomat28_nz_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.843750      Total simulation  0.312500
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.031250
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.281250      Plotting results  0.328125
+Parameter saving: 0.000000      Plant Display     0.171875
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3.msk loaded.
+ 1 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 2 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 3 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 4 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 5 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 6 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 7 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 8 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+ 9 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+10 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+11 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+12 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+13 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+14 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+15 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 4.13357 4.63743 4.83339  err:15.037
+
+Fitted Parameter values. Error: 15.037 
+ xr___:13.048  xSp__:2421.2  xpp__:1.17613  xpe__:0.662057  xpf__:25.8151  xkpa_:0.767886  xkpe_:1.76378  xBa1_:4.13357  xBp1_:4.63743  xBi1_:4.83339 
+Fitted Parameter standard deviation 
+ xr___:0.975422  xSp__:254.786  xpp__:0.0572081  xpe__:0.044108  xpf__:1.77518  xkpa_:0.0339064  xkpe_:0.0988089  xBa1_:0.225605  xBp1_:0.299988  xBi1_:0.320458  
+Parameter save in: ..\data\\Agro_Plant\\agro_tomate\Work\1tomat28_zz_comp3phyt3fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_tomate\1tomat28_zz_comp3phyt3
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.453125      Total simulation  0.390625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.390625      Plotting results  0.875000
+Parameter saving: 0.000000      Plant Display     0.140625
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1.msk loaded.
+ 1 15.1076 2809.21 1.13649 0.589423 30.7459 0.770875 1.80706 3.10155 3.12446 3.55348  err:6.14931
+ 2 15.2246 2827.76 1.13726 0.592435 31.1702 0.771047 1.80738 3.05202 3.0781 3.50508  err:6.14927
+ 3 15.1175 2810.63 1.13658 0.589696 30.7845 0.77089 1.80708 3.09737 3.12069 3.54955  err:6.14924
+ 4 15.216 2826.33 1.13722 0.592237 31.1423 0.771037 1.80735 3.05561 3.08152 3.50867  err:6.14921
+ 5 15.1255 2811.86 1.13664 0.589919 30.8161 0.770903 1.80709 3.09393 3.1175 3.54623  err:6.14919
+ 6 15.2087 2825.14 1.13719 0.592066 31.1184 0.771027 1.80732 3.05864 3.08439 3.51167  err:6.14917
+ 7 15.1322 2812.9 1.13669 0.590105 30.8422 0.770914 1.8071 3.09105 3.11483 3.54345  err:6.14916
+ 8 15.2027 2824.14 1.13715 0.591921 31.098 0.771019 1.80729 3.06119 3.08681 3.5142  err:6.14915
+ 9 15.1379 2813.78 1.13674 0.590259 30.864 0.770923 1.80711 3.08863 3.11258 3.54111  err:6.14914
+10 15.1975 2823.3 1.13713 0.591796 31.0805 0.771012 1.80727 3.06334 3.08885 3.51634  err:6.14913
+11 15.1426 2814.53 1.13677 0.590388 30.8822 0.770931 1.80712 3.08659 3.11068 3.53913  err:6.14912
+12 15.1932 2822.6 1.1371 0.59169 31.0656 0.771006 1.80726 3.06517 3.09057 3.51814  err:6.14912
+13 15.1467 2815.16 1.1368 0.590496 30.8975 0.770937 1.80713 3.08487 3.10907 3.53746  err:6.14911
+14 15.1895 2822 1.13708 0.591599 31.0529 0.771001 1.80725 3.06672 3.09203 3.51967  err:6.14911
+15 15.1501 2815.69 1.13683 0.590587 30.9103 0.770943 1.80714 3.08342 3.10772 3.53605  err:6.1491
+
+Fitted Parameter values. Error: 6.1491 
+ xr___:15.1501  xSp__:2815.69  xpp__:1.13683  xpe__:0.590587  xpf__:30.9103  xkpa_:0.770943  xkpe_:1.80714  xBa1_:3.08342  xBp1_:3.10772  xBi1_:3.53605 
+Fitted Parameter standard deviation 
+ xr___:1.62346  xSp__:360.957  xpp__:0.069731  xpe__:0.0576031  xpf__:5.55115  xkpa_:0.0385315  xkpe_:0.119665  xBa1_:0.617328  xBp1_:0.650662  xBi1_:0.692249  
+Parameter save in: ..\data\\Agro_Plant\\agro_tomate\Work\2tomat28_zz_phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_tomate\2tomat28_zz_phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.828125      Total simulation  0.390625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.390625      Plotting results  0.265625
+Parameter saving: 0.000000      Plant Display     0.140625
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.par loaded.
+
+Target: ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1.msk loaded.
+ 1 37.8302 351.57 0.498325 0.577586 22.9799 1.15393 0.732579 3.28213 3.24404 2.89576  err:9.55761
+ 2 38.1664 347.836 0.502197 0.597787 24.4835 1.1529 0.733759 3.03453 3.05448 2.73212  err:9.56047
+ 3 37.7559 352.014 0.496716 0.57287 22.6102 1.15422 0.732281 3.32364 3.27294 2.91791  err:9.56749
+ 4 38.234 346.633 0.502194 0.601697 24.7556 1.15278 0.733985 2.96849 3.00043 2.6826  err:9.5621
+ 5 38.2787 323.679 0.449216 0.582022 26.8444 1.15122 0.733683 2.38753 2.46157 2.20148  err:10.3853
+ 6 36.7971 305.439 0.496628 0.594349 27.4073 1.15556 0.727945 2.50776 2.51634 2.21422  err:9.55543
+ 7 36.907 302.085 0.504406 0.611809 28.7423 1.15347 0.727683 2.34144 2.39997 2.09111  err:9.59338
+ 8 37.5341 344.475 0.489253 0.520431 20.1077 1.15409 0.731389 3.23539 3.17941 2.83463  err:12.3505
+ 9 37.649 337.142 0.496394 0.589077 24.1369 1.15231 0.734181 3.02572 2.98297 2.69836  err:9.60346
+10 37.9157 355.66 0.465644 0.568118 22.1893 1.15445 0.731791 3.38234 3.32682 2.95053  err:9.79989
+11 38.5703 350.003 0.500962 0.603489 24.8402 1.15182 0.734723 2.91059 2.95782 2.66131  err:9.56584
+12 38.1359 330.422 0.503519 0.592485 26.2096 1.15269 0.733195 2.62065 2.70666 2.39686  err:9.56089
+13 37.8998 341.897 0.497959 0.598206 24.3864 1.15344 0.731704 2.99506 2.99531 2.6743  err:9.58557
+14 38.3134 328.417 0.501279 0.582519 26.4414 1.15151 0.733546 2.46246 2.56964 2.27302  err:9.66928
+15 36.4526 296.976 0.504155 0.610094 28.3719 1.15592 0.727138 2.40745 2.43266 2.10644  err:9.58358
+
+Fitted Parameter values. Error: 9.58358 
+ xr___:36.4526  xSp__:296.976  xpp__:0.504155  xpe__:0.610094  xpf__:28.3719  xkpa_:1.15592  xkpe_:0.727138  xBa1_:2.40745  xBp1_:2.43266  xBi1_:2.10644 
+Fitted Parameter standard deviation 
+ xr___:3.23378  xSp__:51.5115  xpp__:0.038619  xpe__:0.0765867  xpf__:6.90403  xkpa_:0.0769617  xkpe_:0.0747339  xBa1_:0.740829  xBp1_:0.701779  xBi1_:0.579169  
+Parameter save in: ..\data\\Agro_Plant\\agro_tomate\Work\3tomat28_zz_comp1phyt1fitted.fpar performed
+
+..\data\\Agro_Plant\\agro_tomate\3tomat28_zz_comp1phyt1
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.093750      Total simulation  0.343750
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.343750      Plotting results  0.593750
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\PMA18\PMA18_1tomat28.par loaded.
+
+Target: ..\data\\PMA18\PMA18_1tomat28.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):Petiol-size/position 1
+Target Organ(1):pith-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\PMA18\PMA18_1tomat28.msk loaded.
+ 1 13.048 2421.2 1.17613 0.662057 25.8151 0.767886 1.76378 3.13357 3.63743 3.83339  err:44.1472
+ 2 13.9939 2603.49 1.01627 0.599071 24.4819 0.769179 1.72765 3.04311 2.96788 3.04246  err:16.1402
+ 3 11.7372 2147.01 1.03278 0.595329 22.5888 0.768734 1.75982 3.44619 3.05592 3.33955  err:15.6944
+ 4 11.881 2189.06 1.02757 0.585973 22.7153 0.768321 1.75753 3.44615 3.04202 3.26459  err:15.0634
+ 5 11.8023 2175.1 1.02451 0.582222 22.534 0.767682 1.76006 3.47407 3.05924 3.29697  err:15.0609
+ 6 11.806 2175.74 1.02481 0.582012 22.5518 0.767625 1.75996 3.47167 3.0571 3.28911  err:15.0609
+ 7 11.8049 2175.59 1.02473 0.582033 22.5463 0.767626 1.76004 3.47242 3.05765 3.29144  err:15.0608
+ 8 11.8051 2175.61 1.02475 0.582019 22.5476 0.767625 1.76002 3.47225 3.05753 3.29079  err:15.0608
+ 9 11.805 2175.61 1.02474 0.582023 22.5472 0.767625 1.76002 3.4723 3.05756 3.29097  err:15.0608
+10 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47228 3.05755 3.29092  err:15.0608
+11 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47229 3.05756 3.29093  err:15.0608
+12 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47229 3.05756 3.29093  err:15.0608
+13 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47229 3.05756 3.29093  err:15.0608
+14 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47229 3.05756 3.29093  err:15.0608
+15 11.805 2175.61 1.02475 0.582022 22.5473 0.767625 1.76002 3.47229 3.05756 3.29093  err:15.0608
+
+Fitted Parameter values. Error: 15.0608 
+ xr___:11.805  xSp__:2175.61  xpp__:1.02475  xpe__:0.582022  xpf__:22.5473  xkpa_:0.767625  xkpe_:1.76002  xBa1_:3.47229  xBp1_:3.05756  xBi1_:3.29093 
+Fitted Parameter standard deviation 
+ xr___:0.881285  xSp__:219.378  xpp__:0.053698  xpe__:0.0412744  xpf__:1.65696  xkpa_:0.0339622  xkpe_:0.0992394  xBa1_:0.215747  xBp1_:0.214002  xBi1_:0.238495  
+Parameter save in: ..\data\\PMA18\Work\PMA18_1tomat28fitted.fpar performed
+
+..\data\\PMA18\PMA18_1tomat28
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    1.453125      Total simulation  0.390625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.015625
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.375000      Plotting results  0.843750
+Parameter saving: 0.015625      Plant Display     0.171875
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:1.20284e-08
+
+Fitted Parameter values. Error: 1.20284e-08 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay01_Root_eqfitted.fpar performed
+
+..\data\\Virtual_Plant\\Expansion_delay\Delay01_Root_eq
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.531250      Total simulation  0.015625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.015625      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:9.81861e-08
+
+Fitted Parameter values. Error: 9.81861e-08 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay02_Ringsfitted.fpar performed
+
+..\data\\Virtual_Plant\\Expansion_delay\Delay02_Rings
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.546875      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.468750
+Parameter saving: 0.000000      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit.targ
+
+Plant age differs in Parameter file :23 and Target file: 30. Keeping: 30
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1  err:242.098
+
+Fitted Parameter values. Error: 242.098 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay03_msk_Fruitfitted.fpar performed
+
+..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.671875      Total simulation  0.031250
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.031250      Plotting results  0.546875
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.targ
+
+Plant age differs in Parameter file :25 and Target file: 30. Keeping: 30
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25.msk loaded.
+ 1  err:621.102
+
+Fitted Parameter values. Error: 621.102 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\Expansion_delay\Work\Delay03_msk_Fruit_25fitted.fpar performed
+
+..\data\\Virtual_Plant\\Expansion_delay\Delay03_msk_Fruit_25
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.609375      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.484375
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1  err:3.34727e-07
+
+Fitted Parameter values. Error: 3.34727e-07 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\Expansion_delay\Work\expan01_sinkvarfitted.fpar performed
+
+..\data\\Virtual_Plant\\Expansion_delay\expan01_sinkvar
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.562500      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.468750
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:4.82927e-07
+
+Fitted Parameter values. Error: 4.82927e-07 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_01_ta5_tx5fitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_01_ta5_tx5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.484375      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.375000
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5.targ
+
+Plant age differs in Parameter file :50 and Target file: 30. Keeping: 30
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:0.000157853
+
+Fitted Parameter values. Error: 0.000157853 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_02_w_abort_ta5_tx5fitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_02_w_abort_ta5_tx5
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.468750      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.375000
+Parameter saving: 0.015625      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr.targ
+
+Plant age differs in Parameter file :50 and Target file: 30. Keeping: 30
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1  err:1.59418e-05
+
+Fitted Parameter values. Error: 1.59418e-05 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_03_ta4_tx3_2bld_6frfitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_03_ta4_tx3_2bld_6fr
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.578125      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.031250      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.437500
+Parameter saving: 0.000000      Plant Display     0.109375
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:9.58376e-09
+
+Fitted Parameter values. Error: 9.58376e-09 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_04_Eo_Qo_aQofitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_04_Eo_Qo_aQo
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.406250      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.031250      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.265625
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:7.23807e-09
+
+Fitted Parameter values. Error: 7.23807e-09 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_05_E1_Qo_aQofitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_05_E1_Qo_aQo
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.406250      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.281250
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 0.8  err:2.0169e-08
+ 2 0.8  err:2.01438e-08
+ 3 0.8  err:2.01438e-08
+ 4 0.8  err:2.01438e-08
+ 5 0.8  err:2.01438e-08
+ 6 0.8  err:2.01438e-08
+ 7 0.8  err:2.01438e-08
+ 8 0.8  err:2.01438e-08
+ 9 0.8  err:2.01438e-08
+10 0.8  err:2.01438e-08
+11 0.8  err:2.01438e-08
+12 0.8  err:2.01438e-08
+13 0.8  err:2.01438e-08
+14 0.8  err:2.01438e-08
+15 0.8  err:2.01438e-08
+
+Fitted Parameter values. Error: 2.01438e-08 
+ xpc__:0.8 
+Fitted Parameter standard deviation 
+ xpc__:3.75014e-07  
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_06_lbd1_ringsfitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_06_lbd1_rings
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.437500      Total simulation  0.046875
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.046875      Plotting results  0.281250
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root.par loaded.
+
+Target: ..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:4.02324e-05
+
+Fitted Parameter values. Error: 4.02324e-05 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\FreeGrowth_equi\Work\eq_07_rootfitted.fpar performed
+
+..\data\\Virtual_Plant\\FreeGrowth_equi\eq_07_root
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.515625      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.468750
+Parameter saving: 0.000000      Plant Display     0.046875
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp.par loaded.
+
+Target: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:2.53827e-10
+
+Fitted Parameter values. Error: 2.53827e-10 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_01_Spfitted.fpar performed
+
+..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_01_Sp
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.453125      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.015625      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.359375
+Parameter saving: 0.000000      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit.par loaded.
+
+Target: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1  err:1.78453e-06
+
+Fitted Parameter values. Error: 1.78453e-06 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_02_Sp_root_fruitfitted.fpar performed
+
+..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_02_Sp_root_fruit
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.593750      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.484375
+Parameter saving: 0.000000      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings.par loaded.
+
+Target: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:1.68991e-08
+
+Fitted Parameter values. Error: 1.68991e-08 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_03_lbd0_ringsfitted.fpar performed
+
+..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_03_lbd0_rings
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.562500      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.453125
+Parameter saving: 0.000000      Plant Display     0.062500
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings.par loaded.
+
+Target: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:1.68987e-08
+
+Fitted Parameter values. Error: 1.68987e-08 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_04_lbd1_ringsfitted.fpar performed
+
+..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_04_lbd1_rings
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.515625      Total simulation  0.015625
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.015625      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings.par loaded.
+
+Target: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:1.68992e-08
+
+Fitted Parameter values. Error: 1.68992e-08 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\LimitedGrowth_Sp\Work\lt_05_lbd05_ringsfitted.fpar performed
+
+..\data\\Virtual_Plant\\LimitedGrowth_Sp\lt_05_lbd05_rings
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.531250      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.093750
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.par loaded.
+
+Target: ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.targ
+
+Plant age differs in Parameter file :31 and Target file: 30. Keeping: 30
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow.msk loaded.
+ 1  err:7.67161e-05
+
+Fitted Parameter values. Error: 7.67161e-05 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\MaskforPlant\Work\msk_01_TermFlowfitted.fpar performed
+
+..\data\\Virtual_Plant\\MaskforPlant\msk_01_TermFlow
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.640625      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.468750
+Parameter saving: 0.000000      Plant Display     0.125000
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.par loaded.
+
+Target: ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+Mask file ..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag.msk loaded.
+ 1  err:4.1198e-06
+
+Fitted Parameter values. Error: 4.1198e-06 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\MaskforPlant\Work\msk_02_zigzagfitted.fpar performed
+
+..\data\\Virtual_Plant\\MaskforPlant\msk_02_zigzag
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.593750      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.484375
+Parameter saving: 0.000000      Plant Display     0.078125
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b.par loaded.
+
+Target: ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1 55 1  err:14.4119
+ 2 55.4292 0.999939  err:14.0938
+ 3 55.4467 0.99994  err:14.0933
+ 4 55.447 0.99994  err:14.0933
+ 5 55.447 0.99994  err:14.0933
+ 6 55.447 0.99994  err:14.0933
+ 7 55.447 0.99994  err:14.0933
+ 8 55.447 0.99994  err:14.0933
+ 9 55.447 0.99994  err:14.0933
+10 55.447 0.99994  err:14.0933
+11 55.447 0.99994  err:14.0933
+12 55.447 0.99994  err:14.0933
+13 55.447 0.99994  err:14.0933
+14 55.447 0.99994  err:14.0933
+15 55.447 0.99994  err:14.0933
+
+Fitted Parameter values. Error: 14.0933 
+ xr___:55.447  xpe__:0.99994 
+Fitted Parameter standard deviation 
+ xr___:0.749716  xpe__:0.0251862  
+Parameter save in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_eq_01_bfitted.fpar performed
+
+..\data\\Virtual_Plant\\RandomPlant\rnd_eq_01_b
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.562500      Total simulation  0.109375
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.109375      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.031250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring.par loaded.
+
+Target: ..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+ 1  err:0.361015
+
+Fitted Parameter values. Error: 0.361015 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_eq_02_b_w_ringfitted.fpar performed
+
+..\data\\Virtual_Plant\\RandomPlant\rnd_eq_02_b_w_ring
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.468750      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.015625      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.390625
+Parameter saving: 0.015625      Plant Display     0.031250
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F.par loaded.
+
+Target: ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1  err:2.10385
+
+Fitted Parameter values. Error: 2.10385 
+
+Fitted Parameter standard deviation 
+ 
+Parameter save in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_lt_03_bf_Ffitted.fpar performed
+
+..\data\\Virtual_Plant\\RandomPlant\rnd_lt_03_bf_F
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.546875      Total simulation  0.000000
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.015625
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.000000      Plotting results  0.468750
+Parameter saving: 0.000000      Plant Display     0.046875
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf.par loaded.
+
+Target: ..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf.targ
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1 10 1000 1 2  err:3.17054
+ 2 9.87741 973.946 0.999983 1.92216  err:1.61667
+ 3 9.85251 970.916 0.999983 1.9245  err:1.61292
+ 4 9.85152 970.677 0.999983 1.92443  err:1.61291
+ 5 9.85144 970.658 0.999983 1.92443  err:1.61291
+ 6 9.85143 970.657 0.999983 1.92443  err:1.61291
+ 7 9.85143 970.657 0.999983 1.92443  err:1.61291
+ 8 9.85143 970.657 0.999983 1.92443  err:1.61291
+ 9 9.85143 970.657 0.999983 1.92443  err:1.61291
+10 9.85143 970.657 0.999983 1.92443  err:1.61291
+11 9.85143 970.657 0.999983 1.92443  err:1.61291
+12 9.85143 970.657 0.999983 1.92443  err:1.61291
+13 9.85143 970.657 0.999983 1.92443  err:1.61291
+14 9.85143 970.657 0.999983 1.92443  err:1.61291
+15 9.85143 970.657 0.999983 1.92443  err:1.61291
+
+Fitted Parameter values. Error: 1.61291 
+ xr___:9.85143  xSp__:970.657  xpe__:0.999983  xpf__:1.92443 
+Fitted Parameter standard deviation 
+ xr___:0.0508204  xSp__:7.0405  xpe__:0.00642074  xpf__:0.0125895  
+Parameter save in: ..\data\\Virtual_Plant\\RandomPlant\Work\rnd_lt_04_b_bffitted.fpar performed
+
+..\data\\Virtual_Plant\\RandomPlant\rnd_lt_04_b_bf
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.734375      Total simulation  0.187500
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.031250
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.187500      Plotting results  0.406250
+Parameter saving: 0.000000      Plant Display     0.093750
+MATLAB 8.0
+Parameter file (23 lines) ..\data\\Virtual_Plant\\Remobilisation\1remob.par loaded.
+
+Target: ..\data\\Virtual_Plant\\Remobilisation\1remob.targ
+
+Plant age differs in Parameter file :28 and Target file: 20. Keeping: 20
+Target Organ(1):Blade-size/position 1
+Target Organ(1):internode-size/position 1
+Target Organ(1):FruitF-size/position 1
+ 1 5 1  err:5.46219e-07
+ 2 5.00004 1  err:5.36822e-07
+ 3 5.00004 1  err:5.36822e-07
+ 4 5.00004 1  err:5.36822e-07
+ 5 5.00004 1  err:5.36822e-07
+ 6 5.00004 1  err:5.36822e-07
+ 7 5.00004 1  err:5.36822e-07
+ 8 5.00004 1  err:5.36822e-07
+ 9 5.00004 1  err:5.36822e-07
+10 5.00004 1  err:5.36822e-07
+11 5.00004 1  err:5.36822e-07
+12 5.00004 1  err:5.36822e-07
+13 5.00004 1  err:5.36822e-07
+14 5.00004 1  err:5.36822e-07
+15 5.00004 1  err:5.36822e-07
+
+Fitted Parameter values. Error: 5.36822e-07 
+ xQo__:5.00004  xpe__:1 
+Fitted Parameter standard deviation 
+ xQo__:4.15055e-05  xpe__:9.89377e-06  
+Parameter save in: ..\data\\Virtual_Plant\\Remobilisation\Work\1remobfitted.fpar performed
+
+..\data\\Virtual_Plant\\Remobilisation\1remob
+
+Performances Env: MATLAB 8.0 Use CPP: 0
+TOTAL CPU TIME    0.687500      Total simulation  0.078125
+----------------------------------------------------------
+Parameter loading 0.000000      Target loading    0.000000
+Development Axis  0.000000      Mask load & apply 0.000000
+Organ durations   0.000000      Climate model     0.000000
+Parameter fitting 0.078125      Plotting results  0.515625
+Parameter saving: 0.000000      Plant Display     0.062500
+
+SCRIPT FITTING TOTAL CPU TIME    46.984375

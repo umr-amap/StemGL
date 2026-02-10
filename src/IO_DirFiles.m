@@ -115,7 +115,7 @@ function [nbfiles] = IO_DirGetFiles(directory, pattern, max_depth, fileId, nbfil
            newnbfiles = newnbfiles + 1; 
            fprintf (fileId, '%s\n', selectedfile);
         end
-        fprintf (1,'Storing %d (%d)  %s from %s\n', nf, nbfiles+newnbfiles, selectedfile, directory);   
+        %fprintf (1,'Storing %d (%d)  %s from %s\n', nf, nbfiles+newnbfiles, selectedfile, directory);   
     end
     
     % update the number of files allready written in the batch file
