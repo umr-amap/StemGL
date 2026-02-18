@@ -42,8 +42,9 @@ end
 mxTob1=x;
 ncol=x+1;
 
-strvals = fgetl(fid); %absorb line mxTob
-%fprintf(1,'\n label_vals %s    ncol:%d\n', strvals, ncol);
+%labels = fgetl(fid); %absorb line mxTob
+fgetl(fid); %absorb line mxTob
+%fprintf(1,'\n label_vals %s    ncol:%d\n', labels, ncol);
 
 for k=1:ts
 
