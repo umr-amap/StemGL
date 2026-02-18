@@ -59,7 +59,7 @@ function[]= StemGL_Fit (varargin)
     % read parameter file
     %%%%%%%%%%%%%%%%%%%%%
     %sdir = ['.' filesep 'target' filesep 'test.m'];
-    sdir = '..\data';
+    sdir = strcat('..', filesep,'data'); 
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
     [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
@@ -295,7 +295,7 @@ TQAob = zeros(T,1);
     Save_fitted = 1;
     if Save_fitted > 0
         %filename = ['target' filesep 'param5.m']; % default name of optimised param file
-        [filename] = IO_FileGUI (strcat (plant_wkname, 'fitted.par'),'Save fitted parameter file as:', sdir, '.par', 1);
+        [filename] = IO_FileGUI (strcat (plant_wkname, 'fitted.par'),'Save fitted parameter file as:', sdir, '.fpar', 1);
         IO_WriteParam (filename, text, param, 24);
     end
     t10 = cputime;

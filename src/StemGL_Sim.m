@@ -60,7 +60,7 @@ function[]= StemGL_Sim (varargin)
     TreeName = 'Empty';
 
     %read param
-    sdir = 'target';
+    sdir = strcat('..', filesep,'data');
     [filename] = IO_FileGUI(inputName,'Select parameter file', sdir, '*.par',0);
     t1 = cputime;
     [text, param, plant_name, nblines] = IO_ReadParam ( filename, 26 );
@@ -93,7 +93,7 @@ function[]= StemGL_Sim (varargin)
 
     TileNb = 0;
     if (nblines > 23)
-       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);
+       [TileNb,TilePb1,TilePb2,TileDelay1,TileDelay2,TileLgMax,TileDev1,TileDev2,TileRes] = Load_ParamStructureTillers (param, Tm);        
     end
 
     % Restore axes of development and organ cohorts numbering or create them
@@ -180,7 +180,7 @@ function[]= StemGL_Sim (varargin)
         if Save_Dev > 0
             IO_DumpDevelopment (strcat(plant_wkname, '.dev'), T, Tm, Nrep_S, Axdc, na, np, ni, nf, nm, Xas);
             %[T_g, Tm_g, Nrep_S_g, Axdc_g, na_g, np_g, ni_g, nf_g, nm_g, Xas_g] = IO_RestoreDevelopment (strcat(plant_name, 'dev.m'));
-            [filename] = IO_FileGUI (strcat (plant_wkname, 'update.par'),'Save uoodated parameter file as:', sdir, '.par', 1);
+            [filename] = IO_FileGUI (strcat (plant_wkname, 'update.paru'),'Save updated parameter file as:', sdir, '.paru', 1);
             IO_WriteParam (filename, text, param, 26);
         end
     end
